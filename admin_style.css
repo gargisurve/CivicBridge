@@ -1,0 +1,263 @@
+/* ============================================================
+   CIVICBRIDGE ADMIN PORTAL
+   ============================================================ */
+
+.admin-hero {
+    font-size: 42px;
+    line-height: 1.05;
+    font-weight: 850;
+    color: #12355B;
+    letter-spacing: -1px;
+    margin-top: 45px;
+}
+
+.admin-subtitle {
+    color: #617084;
+    font-size: 15px;
+    margin-top: 7px;
+}
+
+.admin-accent {
+    width: 58px;
+    height: 4px;
+    background: #E07A1F;
+    border-radius: 5px;
+    margin: 22px 0;
+}
+
+.admin-intro {
+    color: #40536A;
+    font-size: 16px;
+    line-height: 1.65;
+    max-width: 640px;
+}
+
+.admin-process {
+    display: flex;
+    align-items: stretch;
+    gap: 10px;
+    margin-top: 28px;
+    max-width: 700px;
+}
+
+.admin-process > div:not(.admin-line) {
+    flex: 1;
+    background: #FFFFFF;
+    border: 1px solid #D7DEE8;
+    border-radius: 9px;
+    padding: 14px;
+}
+
+.admin-process b {
+    display: block;
+    color: #E07A1F;
+    font-size: 12px;
+    margin-bottom: 7px;
+}
+
+.admin-process span {
+    display: block;
+    color: #12355B;
+    font-size: 15px;
+    font-weight: 800;
+    margin-bottom: 5px;
+}
+
+.admin-process small {
+    color: #718096;
+    font-size: 11px;
+    line-height: 1.4;
+}
+
+.admin-line {
+    width: 12px;
+    align-self: center;
+    height: 1px;
+    background: #C9D2DE;
+}
+
+.admin-login-title {
+    color: #12355B !important;
+    font-size: 29px !important;
+    font-weight: 820 !important;
+    margin-top: 55px !important;
+}
+
+.admin-login-subtitle {
+    color: #617084 !important;
+    font-size: 14px !important;
+    margin: 7px 0 22px 0 !important;
+}
+
+.admin-security-note {
+    color: #718096;
+    font-size: 12px;
+    margin-top: 13px;
+}
+
+.admin-top-note {
+    background: #FFFFFF;
+    border: 1px solid #D7DEE8;
+    border-left: 4px solid #E07A1F;
+    border-radius: 8px;
+    padding: 13px 16px;
+    color: #526174;
+    font-size: 13px;
+    margin: 12px 0 24px 0;
+}
+
+.admin-section-title {
+    font-size: 25px;
+    font-weight: 800;
+    color: #12355B;
+    margin: 26px 0 15px 0;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #E07A1F;
+}
+
+.admin-stat-card {
+    background: #FFFFFF;
+    border: 1px solid #D7DEE8;
+    border-radius: 9px;
+    padding: 17px 18px;
+    min-height: 105px;
+    box-shadow: 0 2px 6px rgba(18, 53, 91, 0.04);
+}
+
+.admin-stat-title {
+    color: #526174;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.admin-stat-number {
+    color: #12355B;
+    font-size: 30px;
+    line-height: 1.15;
+    font-weight: 850;
+    margin: 5px 0;
+}
+
+.admin-stat-caption {
+    color: #8793A2;
+    font-size: 11px;
+}
+
+.admin-workflow {
+    display: flex;
+    align-items: stretch;
+    gap: 8px;
+    margin: 8px 0 18px 0;
+}
+
+.admin-step {
+    flex: 1;
+    background: #FFFFFF;
+    border: 1px solid #D7DEE8;
+    border-radius: 9px;
+    padding: 15px;
+}
+
+.admin-step b {
+    display: inline-flex;
+    width: 25px;
+    height: 25px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: #EEF3F8;
+    color: #12355B;
+    font-size: 12px;
+    margin-right: 7px;
+}
+
+.admin-step strong {
+    color: #12355B;
+    font-size: 14px;
+}
+
+.admin-step span {
+    display: block;
+    color: #617084;
+    font-size: 12px;
+    line-height: 1.45;
+    margin-top: 9px;
+}
+
+.admin-line {
+    flex: 0 0 14px;
+    width: 14px;
+    height: 1px;
+    background: #C9D2DE;
+    align-self: center;
+}
+
+.admin-queue-row {
+    display: grid;
+    grid-template-columns: 1fr 1.7fr 1.4fr;
+    gap: 18px;
+    background: #FFFFFF;
+    border: 1px solid #D7DEE8;
+    border-radius: 8px;
+    padding: 13px 16px;
+    margin-bottom: 8px;
+    color: #12355B;
+}
+
+.admin-queue-row small {
+    color: #718096;
+}
+
+.admin-detail-label,
+.admin-action-title {
+    color: #12355B;
+    font-size: 17px;
+    font-weight: 800;
+    margin: 18px 0 10px 0;
+}
+
+/* Admin selectbox and text fields */
+[data-testid="stSelectbox"] label p,
+[data-testid="stTextInput"] label p,
+[data-testid="stTextArea"] label p {
+    color: #40536A !important;
+    opacity: 1 !important;
+    font-weight: 650 !important;
+}
+
+@media (max-width: 900px) {
+    .admin-process,
+    .admin-workflow {
+        flex-direction: column;
+    }
+
+    .admin-line {
+        display: none;
+    }
+
+    .admin-queue-row {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* ============================================================
+   FIX ADMIN PAGE VERTICAL SCROLL
+   ============================================================ */
+
+html,
+body,
+[data-testid="stAppViewContainer"],
+[data-testid="stAppViewContainer"] > .main {
+    overflow-y: auto !important;
+    overflow-x: hidden !important;
+}
+
+[data-testid="stAppViewContainer"] > .main {
+    height: auto !important;
+    min-height: 100vh !important;
+}
+
+.block-container {
+    padding-top: 5rem !important;
+    padding-bottom: 5rem !important;
+}

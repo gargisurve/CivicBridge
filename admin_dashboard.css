@@ -1,0 +1,81 @@
+/* CivicBridge admin dashboard — simple layout, high contrast */
+.cb-dashboard-header {
+    background: #FFFFFF;
+    border: 1px solid #D9DEE5;
+    border-left: 4px solid #E07A1F;
+    border-radius: 10px;
+    padding: 18px 22px;
+    margin: 4px 0 18px 0;
+}
+.cb-dashboard-eyebrow {
+    color: #258765 !important;
+    font-size: 10px;
+    font-weight: 800;
+    letter-spacing: 1.4px;
+    margin-bottom: 6px;
+}
+.cb-dashboard-title {
+    color: #000000 !important;
+    font-size: 27px;
+    line-height: 1.2;
+    font-weight: 800;
+}
+.cb-dashboard-description {
+    color: #000000 !important;
+    font-size: 13px;
+    line-height: 1.5;
+    margin-top: 7px;
+}
+.cb-dashboard-section-title {
+    color: #000000 !important;
+    font-size: 18px;
+    font-weight: 750;
+    margin: 10px 0 8px 0;
+}
+.cb-dashboard-section-subtitle {
+    color: #000000 !important;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+.cb-dashboard-metric {
+    background: #FFFFFF;
+    border: 1px solid #D9DEE5;
+    border-radius: 9px;
+    padding: 13px 14px;
+    min-height: 100px;
+    box-shadow: none;
+}
+.cb-dashboard-metric-label {
+    color: #000000 !important;
+    font-size: 12px;
+    line-height: 1.35;
+    font-weight: 700;
+}
+.cb-dashboard-metric-value {
+    color: #000000 !important;
+    font-size: 27px;
+    line-height: 1.25;
+    font-weight: 800;
+    margin-top: 8px;
+}
+.cb-dashboard-metric-caption {
+    color: #000000 !important;
+    font-size: 11px;
+    margin-top: 5px;
+}
+.cb-dashboard-gap {
+    height: 12px;
+}
+/* Ensure Streamlit text within this dashboard stays readable in black. */
+[data-testid="stAppViewContainer"] .stPlotlyChart,
+[data-testid="stAppViewContainer"] .stPlotlyChart * {
+    color: #000000;
+}
+
+
+/* Dashboard headings and supporting text */
+.cb-dashboard-section-title,
+.cb-dashboard-section-subtitle,
+.cb-dashboard-description {
+    color: #000000 !important;
+}

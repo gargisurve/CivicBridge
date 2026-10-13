@@ -1,0 +1,701 @@
+complaint_id,complaint_text,language,category,issue_type,location_text,duration_text,impact_level,evidence_attached
+CB10001,Residents of Kurla are facing There is no water supply for 2 days.,English,Water Supply,no_water,Kurla,for 2 days,Low,Yes
+CB10002,Andheri West येथे पाणी घाणेरडे किंवा रंग बदललेले येत आहे कालपासून.,Marathi,Water Supply,discoloured_water,Andheri West,कालपासून,Low,Yes
+CB10003,Residents of Nagpur are facing The road surface is badly damaged for a week.,English,Roads & Infrastructure,damaged_road,Nagpur,for a week,Medium,No
+CB10004,Thane येथे रस्ता खराब झाला आहे असून ही समस्या ३ दिवसांपासून आहे.,Marathi,Roads & Infrastructure,damaged_road,Thane,३ दिवसांपासून,Low,Yes
+CB10005,The bus service is frequently delayed in Bandra East for a week.,English,Public Transport,bus_delay,Bandra East,for a week,Medium,No
+CB10006,Navi Mumbai येथे स्ट्रीटलाइट बंद आहे दोन आठवड्यांपासून.,Marathi,Street Lighting,broken_streetlight,Navi Mumbai,दोन आठवड्यांपासून,Medium,Yes
+CB10007,Residents of Aurangabad are facing The road has inadequate lighting for 3 days.,English,Street Lighting,dark_stretch,Aurangabad,for 3 days,High,Yes
+CB10008,Malad परिसरातील नागरिकांना रस्ता खराब झाला आहे कालपासून.,Marathi,Roads & Infrastructure,damaged_road,Malad,कालपासून,Low,No
+CB10009,Please take action because there is The streetlight pole is damaged in Powai for 2 days.,English,Street Lighting,damaged_pole,Powai,for 2 days,Medium,Yes
+CB10010,Bandra East परिसरातील नागरिकांना रस्त्यावर पुरेसा प्रकाश नाही दोन आठवड्यांपासून.,Marathi,Street Lighting,dark_stretch,Bandra East,दोन आठवड्यांपासून,High,Yes
+CB10011,Residents of Santacruz are facing Wastewater is leaking for 3 days.,English,Drainage & Sewerage,wastewater_leakage,Santacruz,for 3 days,High,No
+CB10012,कृपया दखल घ्यावी. Andheri West येथे रस्ता खराब झाला आहे ३ दिवसांपासून.,Marathi,Roads & Infrastructure,damaged_road,Andheri West,३ दिवसांपासून,Medium,Yes
+CB10013,We want to report that Garbage is being dumped improperly in Goregaon has continued for a month.,English,Waste & Sanitation,illegal_dumping,Goregaon,for a month,Medium,No
+CB10014,Borivali येथे मॅनहोल उघडे किंवा खराब आहे असून ही समस्या २ दिवसांपासून आहे.,Marathi,Drainage & Sewerage,open_manhole,Borivali,२ दिवसांपासून,High,No
+CB10015,We want to report that A public facility is unhygienic in Jogeshwari has continued for 2 days.,English,Public Health & Sanitation,unclean_public_facility,Jogeshwari,for 2 days,Low,Yes
+CB10016,कृपया दखल घ्यावी. Dadar येथे पाण्याचा दाब खूप कमी आहे एका महिन्यापासून.,Marathi,Water Supply,low_pressure,Dadar,एका महिन्यापासून,High,Yes
+CB10017,Please take action because there is There is a public health or sanitation hazard in Aurangabad for a week.,English,Public Health & Sanitation,public_health_hazard,Aurangabad,for a week,High,Yes
+CB10018,Mulund येथे पाण्याची गळती होत आहे असून ही समस्या कालपासून आहे.,Marathi,Water Supply,water_leakage,Mulund,कालपासून,Medium,Yes
+CB10019,Residents of Kurla are facing There is a power outage for two weeks.,English,Electricity,power_outage,Kurla,for two weeks,High,Yes
+CB10020,Nashik परिसरातील नागरिकांना रस्त्यावर पुरेसा प्रकाश नाही दोन आठवड्यांपासून.,Marathi,Street Lighting,dark_stretch,Nashik,दोन आठवड्यांपासून,Low,No
+CB10021,We want to report that The drain is blocked in Aurangabad has continued for 3 days.,English,Drainage & Sewerage,blocked_drain,Aurangabad,for 3 days,Low,Yes
+CB10022,Jogeshwari परिसरातील नागरिकांना सार्वजनिक वाहतूक सेवा रद्द झाली आहे कालपासून.,Marathi,Public Transport,service_cancellation,Jogeshwari,कालपासून,High,Yes
+CB10023,Residents of Bandra East are facing The supplied water is dirty or discoloured for two weeks.,English,Water Supply,discoloured_water,Bandra East,for two weeks,Low,No
+CB10024,कृपया दखल घ्यावी. Nashik येथे मॅनहोल उघडे किंवा खराब आहे दोन आठवड्यांपासून.,Marathi,Drainage & Sewerage,open_manhole,Nashik,दोन आठवड्यांपासून,Low,Yes
+CB10025,We want to report that The streetlight pole is damaged in Powai has continued for a week.,English,Street Lighting,damaged_pole,Powai,for a week,Low,Yes
+CB10026,Mulund परिसरातील नागरिकांना कचरा उचलला जात नाही कालपासून.,Marathi,Waste & Sanitation,uncollected_garbage,Mulund,कालपासून,High,Yes
+CB10027,There are large potholes on the road in Andheri West for 2 days.,English,Roads & Infrastructure,pothole,Andheri West,for 2 days,Low,No
+CB10028,कृपया दखल घ्यावी. Kurla येथे पाण्याचा दाब खूप कमी आहे एका महिन्यापासून.,Marathi,Water Supply,low_pressure,Kurla,एका महिन्यापासून,Low,Yes
+CB10029,Residents of Pune are facing An electricity pole is damaged for a week.,English,Electricity,damaged_electric_pole,Pune,for a week,Low,Yes
+CB10030,कृपया दखल घ्यावी. Thane येथे सार्वजनिक सुविधा अस्वच्छ आहे एक आठवड्यापासून.,Marathi,Public Health & Sanitation,unclean_public_facility,Thane,एक आठवड्यापासून,High,Yes
+CB10031,Please take action because there is There is no water supply in Santacruz for a month.,English,Water Supply,no_water,Santacruz,for a month,Low,Yes
+CB10032,Nagpur परिसरातील नागरिकांना कचरापेटी भरून वाहत आहे एक आठवड्यापासून.,Marathi,Waste & Sanitation,overflowing_bin,Nagpur,एक आठवड्यापासून,Medium,Yes
+CB10033,We want to report that The streetlight pole is damaged in Jogeshwari has continued since yesterday.,English,Street Lighting,damaged_pole,Jogeshwari,since yesterday,High,Yes
+CB10034,Bandra East परिसरातील नागरिकांना रस्त्यावर मोठे खड्डे आहेत २ दिवसांपासून.,Marathi,Roads & Infrastructure,pothole,Bandra East,२ दिवसांपासून,Medium,No
+CB10035,Residents of Santacruz are facing An electricity pole is damaged since yesterday.,English,Electricity,damaged_electric_pole,Santacruz,since yesterday,Medium,Yes
+CB10036,कृपया दखल घ्यावी. Navi Mumbai येथे सार्वजनिक सुविधा अस्वच्छ आहे ३ दिवसांपासून.,Marathi,Public Health & Sanitation,unclean_public_facility,Navi Mumbai,३ दिवसांपासून,High,No
+CB10037,Sewage is overflowing onto the road in Malad for 2 days.,English,Drainage & Sewerage,sewage_overflow,Malad,for 2 days,High,Yes
+CB10038,कृपया दखल घ्यावी. Andheri West येथे बस नेहमी उशिरा येते दोन आठवड्यांपासून.,Marathi,Public Transport,bus_delay,Andheri West,दोन आठवड्यांपासून,High,Yes
+CB10039,There are large potholes on the road in Dadar since yesterday.,English,Roads & Infrastructure,pothole,Dadar,since yesterday,High,Yes
+CB10040,Kolhapur येथे परिसरात पाणी साचले आहे २ दिवसांपासून.,Marathi,Public Health & Sanitation,stagnant_water,Kolhapur,२ दिवसांपासून,High,Yes
+CB10041,Please take action because there is A public facility is unhygienic in Kurla for 2 days.,English,Public Health & Sanitation,unclean_public_facility,Kurla,for 2 days,Low,No
+CB10042,Malad येथे डासांची पैदास होत आहे असून ही समस्या एक आठवड्यापासून आहे.,Marathi,Public Health & Sanitation,mosquito_breeding,Malad,एक आठवड्यापासून,Low,Yes
+CB10043,Residents of Bandra East are facing There is a power outage for two weeks.,English,Electricity,power_outage,Bandra East,for two weeks,High,No
+CB10044,Bandra East येथे मॅनहोल उघडे किंवा खराब आहे असून ही समस्या २ दिवसांपासून आहे.,Marathi,Drainage & Sewerage,open_manhole,Bandra East,२ दिवसांपासून,Medium,Yes
+CB10045,An electrical wire is exposed in Aurangabad for a month.,English,Electricity,exposed_wire,Aurangabad,for a month,High,No
+CB10046,Kurla येथे पाण्याचा दाब खूप कमी आहे कालपासून.,Marathi,Water Supply,low_pressure,Kurla,कालपासून,High,Yes
+CB10047,Please take action because there is The streetlight pole is damaged in Aurangabad for 2 days.,English,Street Lighting,damaged_pole,Aurangabad,for 2 days,Low,No
+CB10048,कृपया दखल घ्यावी. Andheri West येथे वीजेची तार उघडी आहे कालपासून.,Marathi,Electricity,exposed_wire,Andheri West,कालपासून,Medium,Yes
+CB10049,Please take action because there is The footpath is damaged in Borivali for a month.,English,Roads & Infrastructure,damaged_footpath,Borivali,for a month,Low,No
+CB10050,Bandra West परिसरातील नागरिकांना परिसरात पाणी साचले आहे कालपासून.,Marathi,Public Health & Sanitation,stagnant_water,Bandra West,कालपासून,High,Yes
+CB10051,The bus stop is damaged in Thane for 2 days.,English,Public Transport,bus_stop_damage,Thane,for 2 days,Medium,No
+CB10052,Goregaon परिसरातील नागरिकांना फुटपाथ खराब झाला आहे एका महिन्यापासून.,Marathi,Roads & Infrastructure,damaged_footpath,Goregaon,एका महिन्यापासून,High,Yes
+CB10053,Residents of Aurangabad are facing The public transport facility is unclean for a month.,English,Public Transport,transport_cleanliness,Aurangabad,for a month,Low,Yes
+CB10054,Andheri East येथे सांडपाण्याची गळती होत आहे असून ही समस्या २ दिवसांपासून आहे.,Marathi,Drainage & Sewerage,wastewater_leakage,Andheri East,२ दिवसांपासून,Medium,Yes
+CB10055,The streetlight is not working in Bandra West for a week.,English,Street Lighting,broken_streetlight,Bandra West,for a week,Medium,Yes
+CB10056,Powai परिसरातील नागरिकांना परिसरात स्वच्छतेची समस्या आहे ३ दिवसांपासून.,Marathi,Waste & Sanitation,public_sanitation,Powai,३ दिवसांपासून,Low,Yes
+CB10057,The area has a sanitation problem in Mulund for 3 days.,English,Waste & Sanitation,public_sanitation,Mulund,for 3 days,Medium,No
+CB10058,Andheri East येथे सार्वजनिक सुविधा अस्वच्छ आहे असून ही समस्या कालपासून आहे.,Marathi,Public Health & Sanitation,unclean_public_facility,Andheri East,कालपासून,Low,No
+CB10059,Please take action because there is There are large potholes on the road in Aurangabad for a week.,English,Roads & Infrastructure,pothole,Aurangabad,for a week,High,No
+CB10060,Santacruz परिसरातील नागरिकांना परिसरात पाणी साचले आहे दोन आठवड्यांपासून.,Marathi,Public Health & Sanitation,stagnant_water,Santacruz,दोन आठवड्यांपासून,Medium,Yes
+CB10061,Residents of Nashik are facing Water is stagnant in the area for two weeks.,English,Public Health & Sanitation,stagnant_water,Nashik,for two weeks,Medium,No
+CB10062,Aurangabad येथे पाण्याची गळती होत आहे ३ दिवसांपासून.,Marathi,Water Supply,water_leakage,Aurangabad,३ दिवसांपासून,High,No
+CB10063,We want to report that The road has inadequate lighting in Thane has continued for 3 days.,English,Street Lighting,dark_stretch,Thane,for 3 days,High,No
+CB10064,कृपया दखल घ्यावी. Thane येथे सांडपाणी रस्त्यावर वाहत आहे एका महिन्यापासून.,Marathi,Drainage & Sewerage,sewage_overflow,Thane,एका महिन्यापासून,High,Yes
+CB10065,Please take action because there is The streetlight pole is damaged in Nagpur since yesterday.,English,Street Lighting,damaged_pole,Nagpur,since yesterday,Medium,Yes
+CB10066,कृपया दखल घ्यावी. Navi Mumbai येथे सार्वजनिक सुविधा अस्वच्छ आहे एक आठवड्यापासून.,Marathi,Public Health & Sanitation,unclean_public_facility,Navi Mumbai,एक आठवड्यापासून,High,Yes
+CB10067,Please take action because there is An electricity pole is damaged in Bandra East for 3 days.,English,Electricity,damaged_electric_pole,Bandra East,for 3 days,Low,Yes
+CB10068,Goregaon येथे स्ट्रीटलाइट बंद आहे २ दिवसांपासून.,Marathi,Street Lighting,broken_streetlight,Goregaon,२ दिवसांपासून,Low,Yes
+CB10069,Residents of Navi Mumbai are facing There is a power outage for a week.,English,Electricity,power_outage,Navi Mumbai,for a week,High,No
+CB10070,Jogeshwari येथे वीजपुरवठ्याची समस्या आहे २ दिवसांपासून.,Marathi,Electricity,electricity_supply_issue,Jogeshwari,२ दिवसांपासून,Low,No
+CB10071,The garbage bin is overflowing in Nashik for a week.,English,Waste & Sanitation,overflowing_bin,Nashik,for a week,High,Yes
+CB10072,Borivali येथे पाणी घाणेरडे किंवा रंग बदललेले येत आहे असून ही समस्या एक आठवड्यापासून आहे.,Marathi,Water Supply,discoloured_water,Borivali,एक आठवड्यापासून,Medium,No
+CB10073,Please take action because there is An electricity pole is damaged in Pune for a week.,English,Electricity,damaged_electric_pole,Pune,for a week,Low,No
+CB10074,Kurla येथे वीजेचा खांब खराब झाला आहे एक आठवड्यापासून.,Marathi,Electricity,damaged_electric_pole,Kurla,एक आठवड्यापासून,High,No
+CB10075,Garbage is being dumped improperly in Mulund for 3 days.,English,Waste & Sanitation,illegal_dumping,Mulund,for 3 days,Low,Yes
+CB10076,Borivali परिसरातील नागरिकांना परिसरात स्वच्छतेची समस्या आहे एका महिन्यापासून.,Marathi,Waste & Sanitation,public_sanitation,Borivali,एका महिन्यापासून,Low,No
+CB10077,We want to report that A public facility is unhygienic in Nagpur has continued for a week.,English,Public Health & Sanitation,unclean_public_facility,Nagpur,for a week,Low,Yes
+CB10078,Kolhapur येथे सार्वजनिक आरोग्य किंवा स्वच्छतेचा धोका आहे एका महिन्यापासून.,Marathi,Public Health & Sanitation,public_health_hazard,Kolhapur,एका महिन्यापासून,High,No
+CB10079,We want to report that There is a power outage in Powai has continued for 3 days.,English,Electricity,power_outage,Powai,for 3 days,Medium,Yes
+CB10080,कृपया दखल घ्यावी. Kurla येथे वीजेचा खांब खराब झाला आहे एक आठवड्यापासून.,Marathi,Electricity,damaged_electric_pole,Kurla,एक आठवड्यापासून,Low,No
+CB10081,Residents of Dadar are facing The public transport facility is unclean for a week.,English,Public Transport,transport_cleanliness,Dadar,for a week,High,Yes
+CB10082,कृपया दखल घ्यावी. Bandra East येथे परिसरात पाणी साचले आहे एका महिन्यापासून.,Marathi,Public Health & Sanitation,stagnant_water,Bandra East,एका महिन्यापासून,Low,No
+CB10083,Please take action because there is The drain is blocked in Kurla for a week.,English,Drainage & Sewerage,blocked_drain,Kurla,for a week,Low,No
+CB10084,कृपया दखल घ्यावी. Santacruz येथे सार्वजनिक वाहतूक सेवा रद्द झाली आहे ३ दिवसांपासून.,Marathi,Public Transport,service_cancellation,Santacruz,३ दिवसांपासून,Medium,Yes
+CB10085,Please take action because there is There is a power outage in Nagpur since yesterday.,English,Electricity,power_outage,Nagpur,since yesterday,Low,Yes
+CB10086,Jogeshwari येथे रस्त्यावर मोठे खड्डे आहेत २ दिवसांपासून.,Marathi,Roads & Infrastructure,pothole,Jogeshwari,२ दिवसांपासून,High,Yes
+CB10087,The garbage bin is overflowing in Pune for a month.,English,Waste & Sanitation,overflowing_bin,Pune,for a month,High,Yes
+CB10088,Powai येथे वीजेची तार उघडी आहे २ दिवसांपासून.,Marathi,Electricity,exposed_wire,Powai,२ दिवसांपासून,Low,No
+CB10089,We want to report that There is no water supply in Malad has continued for two weeks.,English,Water Supply,no_water,Malad,for two weeks,Medium,Yes
+CB10090,Bandra West येथे पाण्याचा दाब खूप कमी आहे असून ही समस्या एका महिन्यापासून आहे.,Marathi,Water Supply,low_pressure,Bandra West,एका महिन्यापासून,High,Yes
+CB10091,Please take action because there is The footpath is damaged in Nagpur for a week.,English,Roads & Infrastructure,damaged_footpath,Nagpur,for a week,Low,No
+CB10092,कृपया दखल घ्यावी. Pune येथे रस्त्यावरील फलक खराब झाला आहे कालपासून.,Marathi,Roads & Infrastructure,broken_road_sign,Pune,कालपासून,Medium,No
+CB10093,Please take action because there is Wastewater is leaking in Dadar for a month.,English,Drainage & Sewerage,wastewater_leakage,Dadar,for a month,High,No
+CB10094,Kolhapur येथे वीजपुरवठ्याची समस्या आहे असून ही समस्या ३ दिवसांपासून आहे.,Marathi,Electricity,electricity_supply_issue,Kolhapur,३ दिवसांपासून,Low,Yes
+CB10095,We want to report that The streetlight pole is damaged in Jogeshwari has continued for a week.,English,Street Lighting,damaged_pole,Jogeshwari,for a week,Medium,Yes
+CB10096,Dadar परिसरातील नागरिकांना वीजेची तार उघडी आहे एक आठवड्यापासून.,Marathi,Electricity,exposed_wire,Dadar,एक आठवड्यापासून,Medium,No
+CB10097,Please take action because there is The public transport service was cancelled in Aurangabad for a month.,English,Public Transport,service_cancellation,Aurangabad,for a month,High,Yes
+CB10098,कृपया दखल घ्यावी. Jogeshwari येथे कचरा उचलला जात नाही एका महिन्यापासून.,Marathi,Waste & Sanitation,uncollected_garbage,Jogeshwari,एका महिन्यापासून,Medium,Yes
+CB10099,There is an electricity supply problem in Navi Mumbai since yesterday.,English,Electricity,electricity_supply_issue,Navi Mumbai,since yesterday,Medium,Yes
+CB10100,Malad येथे डासांची पैदास होत आहे असून ही समस्या एका महिन्यापासून आहे.,Marathi,Public Health & Sanitation,mosquito_breeding,Malad,एका महिन्यापासून,Medium,No
+CB10101,We want to report that A public facility is unhygienic in Powai has continued for a month.,English,Public Health & Sanitation,unclean_public_facility,Powai,for a month,Medium,No
+CB10102,Bandra West परिसरातील नागरिकांना स्ट्रीटलाइट बंद आहे एका महिन्यापासून.,Marathi,Street Lighting,broken_streetlight,Bandra West,एका महिन्यापासून,Medium,Yes
+CB10103,We want to report that Sewage is overflowing onto the road in Goregaon has continued for a month.,English,Drainage & Sewerage,sewage_overflow,Goregaon,for a month,Medium,No
+CB10104,Malad येथे पाण्याचा दाब खूप कमी आहे असून ही समस्या २ दिवसांपासून आहे.,Marathi,Water Supply,low_pressure,Malad,२ दिवसांपासून,Low,No
+CB10105,The road surface is badly damaged in Kurla since yesterday.,English,Roads & Infrastructure,damaged_road,Kurla,since yesterday,High,No
+CB10106,Bandra West येथे सांडपाण्याची गळती होत आहे असून ही समस्या कालपासून आहे.,Marathi,Drainage & Sewerage,wastewater_leakage,Bandra West,कालपासून,Medium,No
+CB10107,Please take action because there is An electrical wire is exposed in Dadar since yesterday.,English,Electricity,exposed_wire,Dadar,since yesterday,Medium,Yes
+CB10108,Pune येथे पाणी घाणेरडे किंवा रंग बदललेले येत आहे कालपासून.,Marathi,Water Supply,discoloured_water,Pune,कालपासून,Low,Yes
+CB10109,We want to report that The streetlight is not working in Jogeshwari has continued since yesterday.,English,Street Lighting,broken_streetlight,Jogeshwari,since yesterday,High,Yes
+CB10110,कृपया दखल घ्यावी. Navi Mumbai येथे सार्वजनिक आरोग्य किंवा स्वच्छतेचा धोका आहे ३ दिवसांपासून.,Marathi,Public Health & Sanitation,public_health_hazard,Navi Mumbai,३ दिवसांपासून,Medium,Yes
+CB10111,Water pressure is very low in Goregaon for 3 days.,English,Water Supply,low_pressure,Goregaon,for 3 days,Low,Yes
+CB10112,कृपया दखल घ्यावी. Dadar येथे नाला तुंबला आहे कालपासून.,Marathi,Drainage & Sewerage,blocked_drain,Dadar,कालपासून,Medium,No
+CB10113,Please take action because there is The streetlight is not working in Jogeshwari for 3 days.,English,Street Lighting,broken_streetlight,Jogeshwari,for 3 days,High,No
+CB10114,Kurla परिसरातील नागरिकांना पाण्याचा दाब खूप कमी आहे एका महिन्यापासून.,Marathi,Water Supply,low_pressure,Kurla,एका महिन्यापासून,Medium,Yes
+CB10115,The garbage bin is overflowing in Kurla for 2 days.,English,Waste & Sanitation,overflowing_bin,Kurla,for 2 days,Low,Yes
+CB10116,कृपया दखल घ्यावी. Kolhapur येथे रस्त्यावर पुरेसा प्रकाश नाही ३ दिवसांपासून.,Marathi,Street Lighting,dark_stretch,Kolhapur,३ दिवसांपासून,Low,No
+CB10117,We want to report that The road has inadequate lighting in Santacruz has continued for 3 days.,English,Street Lighting,dark_stretch,Santacruz,for 3 days,Medium,Yes
+CB10118,Mulund येथे रस्त्यावरील फलक खराब झाला आहे असून ही समस्या दोन आठवड्यांपासून आहे.,Marathi,Roads & Infrastructure,broken_road_sign,Mulund,दोन आठवड्यांपासून,Low,Yes
+CB10119,Garbage has not been collected in Kurla for two weeks.,English,Waste & Sanitation,uncollected_garbage,Kurla,for two weeks,Low,No
+CB10120,कृपया दखल घ्यावी. Dadar येथे वीजेची तार उघडी आहे दोन आठवड्यांपासून.,Marathi,Electricity,exposed_wire,Dadar,दोन आठवड्यांपासून,High,No
+CB10121,Please take action because there is The supplied water is dirty or discoloured in Powai for a week.,English,Water Supply,discoloured_water,Powai,for a week,Medium,Yes
+CB10122,कृपया दखल घ्यावी. Thane येथे मॅनहोल उघडे किंवा खराब आहे एका महिन्यापासून.,Marathi,Drainage & Sewerage,open_manhole,Thane,एका महिन्यापासून,Medium,No
+CB10123,Please take action because there is A road sign is damaged or broken in Bandra East for 3 days.,English,Roads & Infrastructure,broken_road_sign,Bandra East,for 3 days,Medium,Yes
+CB10124,कृपया दखल घ्यावी. Nagpur येथे परिसरात पाणी साचले आहे एक आठवड्यापासून.,Marathi,Public Health & Sanitation,stagnant_water,Nagpur,एक आठवड्यापासून,Low,Yes
+CB10125,Residents of Navi Mumbai are facing The public transport facility is unclean since yesterday.,English,Public Transport,transport_cleanliness,Navi Mumbai,since yesterday,Medium,Yes
+CB10126,Pune येथे स्ट्रीटलाइटचा खांब खराब झाला आहे कालपासून.,Marathi,Street Lighting,damaged_pole,Pune,कालपासून,High,Yes
+CB10127,We want to report that The manhole is open or damaged in Nagpur has continued since yesterday.,English,Drainage & Sewerage,open_manhole,Nagpur,since yesterday,Low,Yes
+CB10128,Bandra West परिसरातील नागरिकांना पाणी घाणेरडे किंवा रंग बदललेले येत आहे एका महिन्यापासून.,Marathi,Water Supply,discoloured_water,Bandra West,एका महिन्यापासून,Medium,No
+CB10129,Residents of Pune are facing The streetlight pole is damaged for a week.,English,Street Lighting,damaged_pole,Pune,for a week,Medium,Yes
+CB10130,Aurangabad परिसरातील नागरिकांना डासांची पैदास होत आहे दोन आठवड्यांपासून.,Marathi,Public Health & Sanitation,mosquito_breeding,Aurangabad,दोन आठवड्यांपासून,Low,No
+CB10131,A public facility is unhygienic in Nashik for 3 days.,English,Public Health & Sanitation,unclean_public_facility,Nashik,for 3 days,Medium,No
+CB10132,कृपया दखल घ्यावी. Navi Mumbai येथे वीजेचा खांब खराब झाला आहे दोन आठवड्यांपासून.,Marathi,Electricity,damaged_electric_pole,Navi Mumbai,दोन आठवड्यांपासून,Medium,No
+CB10133,Residents of Mulund are facing There is a public health or sanitation hazard for 2 days.,English,Public Health & Sanitation,public_health_hazard,Mulund,for 2 days,High,No
+CB10134,कृपया दखल घ्यावी. Andheri West येथे परिसरात स्वच्छतेची समस्या आहे ३ दिवसांपासून.,Marathi,Waste & Sanitation,public_sanitation,Andheri West,३ दिवसांपासून,High,No
+CB10135,Residents of Pune are facing There is a mosquito breeding problem since yesterday.,English,Public Health & Sanitation,mosquito_breeding,Pune,since yesterday,High,No
+CB10136,कृपया दखल घ्यावी. Bandra West येथे पाणी घाणेरडे किंवा रंग बदललेले येत आहे दोन आठवड्यांपासून.,Marathi,Water Supply,discoloured_water,Bandra West,दोन आठवड्यांपासून,Low,Yes
+CB10137,Please take action because there is There is a mosquito breeding problem in Bandra East for a week.,English,Public Health & Sanitation,mosquito_breeding,Bandra East,for a week,Medium,No
+CB10138,Nagpur येथे पाण्याची गळती होत आहे असून ही समस्या एक आठवड्यापासून आहे.,Marathi,Water Supply,water_leakage,Nagpur,एक आठवड्यापासून,High,No
+CB10139,Please take action because there is There are large potholes on the road in Jogeshwari for a month.,English,Roads & Infrastructure,pothole,Jogeshwari,for a month,Low,Yes
+CB10140,Bandra West परिसरातील नागरिकांना परिसरात पाणी साचले आहे एक आठवड्यापासून.,Marathi,Public Health & Sanitation,stagnant_water,Bandra West,एक आठवड्यापासून,High,No
+CB10141,Please take action because there is There are large potholes on the road in Mulund since yesterday.,English,Roads & Infrastructure,pothole,Mulund,since yesterday,Medium,No
+CB10142,कृपया दखल घ्यावी. Jogeshwari येथे डासांची पैदास होत आहे दोन आठवड्यांपासून.,Marathi,Public Health & Sanitation,mosquito_breeding,Jogeshwari,दोन आठवड्यांपासून,High,Yes
+CB10143,We want to report that Sewage is overflowing onto the road in Bandra East has continued for two weeks.,English,Drainage & Sewerage,sewage_overflow,Bandra East,for two weeks,High,Yes
+CB10144,Jogeshwari येथे वीजेचा खांब खराब झाला आहे असून ही समस्या एक आठवड्यापासून आहे.,Marathi,Electricity,damaged_electric_pole,Jogeshwari,एक आठवड्यापासून,Medium,No
+CB10145,Residents of Malad are facing A road sign is damaged or broken for a month.,English,Roads & Infrastructure,broken_road_sign,Malad,for a month,Low,No
+CB10146,Thane येथे सार्वजनिक वाहतूक सेवा रद्द झाली आहे असून ही समस्या एका महिन्यापासून आहे.,Marathi,Public Transport,service_cancellation,Thane,एका महिन्यापासून,Medium,No
+CB10147,Residents of Pune are facing The area has a sanitation problem since yesterday.,English,Waste & Sanitation,public_sanitation,Pune,since yesterday,Medium,No
+CB10148,कृपया दखल घ्यावी. Malad येथे रस्त्यावर पुरेसा प्रकाश नाही कालपासून.,Marathi,Street Lighting,dark_stretch,Malad,कालपासून,Medium,Yes
+CB10149,Please take action because there is A road sign is damaged or broken in Malad for 2 days.,English,Roads & Infrastructure,broken_road_sign,Malad,for 2 days,Low,Yes
+CB10150,Borivali येथे रस्त्यावर पुरेसा प्रकाश नाही एका महिन्यापासून.,Marathi,Street Lighting,dark_stretch,Borivali,एका महिन्यापासून,High,Yes
+CB10151,Please take action because there is The streetlight pole is damaged in Andheri West for two weeks.,English,Street Lighting,damaged_pole,Andheri West,for two weeks,High,Yes
+CB10152,कृपया दखल घ्यावी. Mulund येथे पाण्याची गळती होत आहे एका महिन्यापासून.,Marathi,Water Supply,water_leakage,Mulund,एका महिन्यापासून,Low,Yes
+CB10153,Please take action because there is The manhole is open or damaged in Nashik for two weeks.,English,Drainage & Sewerage,open_manhole,Nashik,for two weeks,Low,No
+CB10154,कृपया दखल घ्यावी. Mulund येथे वीजेची तार उघडी आहे कालपासून.,Marathi,Electricity,exposed_wire,Mulund,कालपासून,Low,Yes
+CB10155,The area has a sanitation problem in Nagpur for 3 days.,English,Waste & Sanitation,public_sanitation,Nagpur,for 3 days,Medium,Yes
+CB10156,Bandra West येथे रस्त्यावर पुरेसा प्रकाश नाही असून ही समस्या एक आठवड्यापासून आहे.,Marathi,Street Lighting,dark_stretch,Bandra West,एक आठवड्यापासून,High,No
+CB10157,Residents of Bandra West are facing A public facility is unhygienic for a month.,English,Public Health & Sanitation,unclean_public_facility,Bandra West,for a month,Medium,Yes
+CB10158,कृपया दखल घ्यावी. Bandra East येथे बस थांबा खराब झाला आहे एका महिन्यापासून.,Marathi,Public Transport,bus_stop_damage,Bandra East,एका महिन्यापासून,High,No
+CB10159,Water is stagnant in the area in Borivali since yesterday.,English,Public Health & Sanitation,stagnant_water,Borivali,since yesterday,Medium,No
+CB10160,Jogeshwari परिसरातील नागरिकांना पाणीपुरवठा होत नाही दोन आठवड्यांपासून.,Marathi,Water Supply,no_water,Jogeshwari,दोन आठवड्यांपासून,Medium,No
+CB10161,Residents of Kolhapur are facing The public transport facility is unclean for a month.,English,Public Transport,transport_cleanliness,Kolhapur,for a month,Medium,Yes
+CB10162,Kurla येथे वीजपुरवठ्याची समस्या आहे असून ही समस्या कालपासून आहे.,Marathi,Electricity,electricity_supply_issue,Kurla,कालपासून,Low,No
+CB10163,Please take action because there is An electricity pole is damaged in Powai since yesterday.,English,Electricity,damaged_electric_pole,Powai,since yesterday,High,No
+CB10164,Kurla येथे रस्त्यावरील फलक खराब झाला आहे २ दिवसांपासून.,Marathi,Roads & Infrastructure,broken_road_sign,Kurla,२ दिवसांपासून,Medium,Yes
+CB10165,Residents of Andheri West are facing Garbage has not been collected for 3 days.,English,Waste & Sanitation,uncollected_garbage,Andheri West,for 3 days,Low,Yes
+CB10166,Kolhapur परिसरातील नागरिकांना पाण्याचा दाब खूप कमी आहे २ दिवसांपासून.,Marathi,Water Supply,low_pressure,Kolhapur,२ दिवसांपासून,Medium,Yes
+CB10167,Please take action because there is The footpath is damaged in Borivali for 2 days.,English,Roads & Infrastructure,damaged_footpath,Borivali,for 2 days,Low,Yes
+CB10168,Andheri East परिसरातील नागरिकांना रस्ता खराब झाला आहे ३ दिवसांपासून.,Marathi,Roads & Infrastructure,damaged_road,Andheri East,३ दिवसांपासून,High,No
+CB10169,Residents of Kurla are facing The road surface is badly damaged since yesterday.,English,Roads & Infrastructure,damaged_road,Kurla,since yesterday,High,No
+CB10170,Pune येथे पाणीपुरवठा होत नाही असून ही समस्या एक आठवड्यापासून आहे.,Marathi,Water Supply,no_water,Pune,एक आठवड्यापासून,High,Yes
+CB10171,Please take action because there is An electricity pole is damaged in Aurangabad since yesterday.,English,Electricity,damaged_electric_pole,Aurangabad,since yesterday,Medium,Yes
+CB10172,Santacruz येथे रस्त्यावरील फलक खराब झाला आहे एक आठवड्यापासून.,Marathi,Roads & Infrastructure,broken_road_sign,Santacruz,एक आठवड्यापासून,Medium,No
+CB10173,Residents of Mulund are facing There is no water supply for two weeks.,English,Water Supply,no_water,Mulund,for two weeks,Low,Yes
+CB10174,Kolhapur येथे रस्त्यावर पुरेसा प्रकाश नाही असून ही समस्या दोन आठवड्यांपासून आहे.,Marathi,Street Lighting,dark_stretch,Kolhapur,दोन आठवड्यांपासून,Medium,No
+CB10175,There is an electricity supply problem in Bandra West for a month.,English,Electricity,electricity_supply_issue,Bandra West,for a month,High,Yes
+CB10176,Jogeshwari येथे सार्वजनिक आरोग्य किंवा स्वच्छतेचा धोका आहे असून ही समस्या एक आठवड्यापासून आहे.,Marathi,Public Health & Sanitation,public_health_hazard,Jogeshwari,एक आठवड्यापासून,Medium,No
+CB10177,Please take action because there is Water is stagnant in the area in Mulund for a week.,English,Public Health & Sanitation,stagnant_water,Mulund,for a week,High,No
+CB10178,Pune येथे बस थांबा खराब झाला आहे कालपासून.,Marathi,Public Transport,bus_stop_damage,Pune,कालपासून,Low,Yes
+CB10179,Water is stagnant in the area in Powai for 2 days.,English,Public Health & Sanitation,stagnant_water,Powai,for 2 days,High,No
+CB10180,कृपया दखल घ्यावी. Powai येथे पाणी घाणेरडे किंवा रंग बदललेले येत आहे एका महिन्यापासून.,Marathi,Water Supply,discoloured_water,Powai,एका महिन्यापासून,High,Yes
+CB10181,The road has inadequate lighting in Malad for 3 days.,English,Street Lighting,dark_stretch,Malad,for 3 days,High,Yes
+CB10182,Jogeshwari येथे सांडपाण्याची गळती होत आहे असून ही समस्या कालपासून आहे.,Marathi,Drainage & Sewerage,wastewater_leakage,Jogeshwari,कालपासून,High,No
+CB10183,We want to report that There is a water leakage in Kolhapur has continued for 2 days.,English,Water Supply,water_leakage,Kolhapur,for 2 days,High,Yes
+CB10184,Dadar येथे स्ट्रीटलाइट बंद आहे असून ही समस्या ३ दिवसांपासून आहे.,Marathi,Street Lighting,broken_streetlight,Dadar,३ दिवसांपासून,Medium,No
+CB10185,We want to report that The road surface is badly damaged in Borivali has continued for two weeks.,English,Roads & Infrastructure,damaged_road,Borivali,for two weeks,Low,Yes
+CB10186,कृपया दखल घ्यावी. Nashik येथे रस्त्यावर मोठे खड्डे आहेत २ दिवसांपासून.,Marathi,Roads & Infrastructure,pothole,Nashik,२ दिवसांपासून,Medium,No
+CB10187,Please take action because there is The bus stop is damaged in Powai for 3 days.,English,Public Transport,bus_stop_damage,Powai,for 3 days,High,Yes
+CB10188,Dadar येथे रस्ता खराब झाला आहे दोन आठवड्यांपासून.,Marathi,Roads & Infrastructure,damaged_road,Dadar,दोन आठवड्यांपासून,High,Yes
+CB10189,We want to report that The streetlight pole is damaged in Thane has continued for a week.,English,Street Lighting,damaged_pole,Thane,for a week,Medium,No
+CB10190,Powai येथे कचरा उचलला जात नाही एक आठवड्यापासून.,Marathi,Waste & Sanitation,uncollected_garbage,Powai,एक आठवड्यापासून,Medium,No
+CB10191,The streetlight is not working in Jogeshwari for a week.,English,Street Lighting,broken_streetlight,Jogeshwari,for a week,Low,Yes
+CB10192,Borivali येथे स्ट्रीटलाइट बंद आहे असून ही समस्या ३ दिवसांपासून आहे.,Marathi,Street Lighting,broken_streetlight,Borivali,३ दिवसांपासून,Medium,Yes
+CB10193,Residents of Thane are facing A road sign is damaged or broken for 2 days.,English,Roads & Infrastructure,broken_road_sign,Thane,for 2 days,Medium,Yes
+CB10194,Santacruz येथे बस नेहमी उशिरा येते एका महिन्यापासून.,Marathi,Public Transport,bus_delay,Santacruz,एका महिन्यापासून,Medium,Yes
+CB10195,We want to report that There is a power outage in Mulund has continued for two weeks.,English,Electricity,power_outage,Mulund,for two weeks,High,No
+CB10196,Bandra West येथे सार्वजनिक सुविधा अस्वच्छ आहे एक आठवड्यापासून.,Marathi,Public Health & Sanitation,unclean_public_facility,Bandra West,एक आठवड्यापासून,Medium,Yes
+CB10197,An electrical wire is exposed in Bandra East for a week.,English,Electricity,exposed_wire,Bandra East,for a week,Low,No
+CB10198,Santacruz येथे परिसरात पाणी साचले आहे असून ही समस्या ३ दिवसांपासून आहे.,Marathi,Public Health & Sanitation,stagnant_water,Santacruz,३ दिवसांपासून,Low,No
+CB10199,The drain is blocked in Nashik for a month.,English,Drainage & Sewerage,blocked_drain,Nashik,for a month,High,Yes
+CB10200,Borivali येथे सार्वजनिक वाहतूक सेवा रद्द झाली आहे २ दिवसांपासून.,Marathi,Public Transport,service_cancellation,Borivali,२ दिवसांपासून,Low,No
+CB10201,The garbage bin is overflowing in Aurangabad for 2 days.,English,Waste & Sanitation,overflowing_bin,Aurangabad,for 2 days,Low,No
+CB10202,Kolhapur येथे वीजपुरवठ्याची समस्या आहे असून ही समस्या एका महिन्यापासून आहे.,Marathi,Electricity,electricity_supply_issue,Kolhapur,एका महिन्यापासून,High,No
+CB10203,We want to report that Wastewater is leaking in Bandra East has continued for a week.,English,Drainage & Sewerage,wastewater_leakage,Bandra East,for a week,High,No
+CB10204,Andheri West येथे रस्त्यावर पुरेसा प्रकाश नाही ३ दिवसांपासून.,Marathi,Street Lighting,dark_stretch,Andheri West,३ दिवसांपासून,Medium,No
+CB10205,Please take action because there is There is a power outage in Andheri West for 3 days.,English,Electricity,power_outage,Andheri West,for 3 days,Low,Yes
+CB10206,Kolhapur येथे सार्वजनिक आरोग्य किंवा स्वच्छतेचा धोका आहे दोन आठवड्यांपासून.,Marathi,Public Health & Sanitation,public_health_hazard,Kolhapur,दोन आठवड्यांपासून,Medium,Yes
+CB10207,The public transport facility is unclean in Nashik for 2 days.,English,Public Transport,transport_cleanliness,Nashik,for 2 days,Medium,Yes
+CB10208,Nashik परिसरातील नागरिकांना बस नेहमी उशिरा येते एका महिन्यापासून.,Marathi,Public Transport,bus_delay,Nashik,एका महिन्यापासून,Low,Yes
+CB10209,Residents of Nashik are facing There is an electricity supply problem for two weeks.,English,Electricity,electricity_supply_issue,Nashik,for two weeks,Medium,No
+CB10210,Thane येथे स्ट्रीटलाइटचा खांब खराब झाला आहे ३ दिवसांपासून.,Marathi,Street Lighting,damaged_pole,Thane,३ दिवसांपासून,High,No
+CB10211,We want to report that There is a water leakage in Bandra West has continued for two weeks.,English,Water Supply,water_leakage,Bandra West,for two weeks,Medium,No
+CB10212,Bandra East परिसरातील नागरिकांना मॅनहोल उघडे किंवा खराब आहे दोन आठवड्यांपासून.,Marathi,Drainage & Sewerage,open_manhole,Bandra East,दोन आठवड्यांपासून,Medium,No
+CB10213,There is a mosquito breeding problem in Aurangabad for a month.,English,Public Health & Sanitation,mosquito_breeding,Aurangabad,for a month,Medium,No
+CB10214,कृपया दखल घ्यावी. Nashik येथे बस थांबा खराब झाला आहे कालपासून.,Marathi,Public Transport,bus_stop_damage,Nashik,कालपासून,High,No
+CB10215,Residents of Malad are facing The footpath is damaged for 2 days.,English,Roads & Infrastructure,damaged_footpath,Malad,for 2 days,Medium,No
+CB10216,Borivali येथे कचरापेटी भरून वाहत आहे २ दिवसांपासून.,Marathi,Waste & Sanitation,overflowing_bin,Borivali,२ दिवसांपासून,Medium,Yes
+CB10217,We want to report that The footpath is damaged in Aurangabad has continued for 2 days.,English,Roads & Infrastructure,damaged_footpath,Aurangabad,for 2 days,Low,Yes
+CB10218,कृपया दखल घ्यावी. Navi Mumbai येथे सांडपाणी रस्त्यावर वाहत आहे कालपासून.,Marathi,Drainage & Sewerage,sewage_overflow,Navi Mumbai,कालपासून,Medium,Yes
+CB10219,Residents of Navi Mumbai are facing An electrical wire is exposed for 2 days.,English,Electricity,exposed_wire,Navi Mumbai,for 2 days,Medium,No
+CB10220,कृपया दखल घ्यावी. Kolhapur येथे कचरा चुकीच्या पद्धतीने टाकला जात आहे एक आठवड्यापासून.,Marathi,Waste & Sanitation,illegal_dumping,Kolhapur,एक आठवड्यापासून,Medium,No
+CB10221,Residents of Goregaon are facing There is a mosquito breeding problem for two weeks.,English,Public Health & Sanitation,mosquito_breeding,Goregaon,for two weeks,Medium,Yes
+CB10222,Nagpur येथे वीजेची तार उघडी आहे कालपासून.,Marathi,Electricity,exposed_wire,Nagpur,कालपासून,Medium,Yes
+CB10223,Residents of Navi Mumbai are facing The manhole is open or damaged for two weeks.,English,Drainage & Sewerage,open_manhole,Navi Mumbai,for two weeks,Medium,Yes
+CB10224,कृपया दखल घ्यावी. Powai येथे परिसरात स्वच्छतेची समस्या आहे कालपासून.,Marathi,Waste & Sanitation,public_sanitation,Powai,कालपासून,Low,No
+CB10225,Please take action because there is The bus stop is damaged in Santacruz since yesterday.,English,Public Transport,bus_stop_damage,Santacruz,since yesterday,Low,Yes
+CB10226,Mulund परिसरातील नागरिकांना बस नेहमी उशिरा येते २ दिवसांपासून.,Marathi,Public Transport,bus_delay,Mulund,२ दिवसांपासून,Low,No
+CB10227,An electricity pole is damaged in Pune for a week.,English,Electricity,damaged_electric_pole,Pune,for a week,Low,Yes
+CB10228,कृपया दखल घ्यावी. Borivali येथे स्ट्रीटलाइट बंद आहे दोन आठवड्यांपासून.,Marathi,Street Lighting,broken_streetlight,Borivali,दोन आठवड्यांपासून,Low,No
+CB10229,Residents of Bandra West are facing Garbage is being dumped improperly since yesterday.,English,Waste & Sanitation,illegal_dumping,Bandra West,since yesterday,Medium,No
+CB10230,Pune येथे पाणीपुरवठा होत नाही दोन आठवड्यांपासून.,Marathi,Water Supply,no_water,Pune,दोन आठवड्यांपासून,High,Yes
+CB10231,Please take action because there is The manhole is open or damaged in Thane since yesterday.,English,Drainage & Sewerage,open_manhole,Thane,since yesterday,Low,No
+CB10232,Nashik येथे नाला तुंबला आहे ३ दिवसांपासून.,Marathi,Drainage & Sewerage,blocked_drain,Nashik,३ दिवसांपासून,High,Yes
+CB10233,We want to report that There is a public health or sanitation hazard in Andheri West has continued for a month.,English,Public Health & Sanitation,public_health_hazard,Andheri West,for a month,Medium,No
+CB10234,Bandra East परिसरातील नागरिकांना फुटपाथ खराब झाला आहे ३ दिवसांपासून.,Marathi,Roads & Infrastructure,damaged_footpath,Bandra East,३ दिवसांपासून,High,Yes
+CB10235,Please take action because there is The bus stop is damaged in Andheri West for 3 days.,English,Public Transport,bus_stop_damage,Andheri West,for 3 days,High,Yes
+CB10236,Dadar येथे वीजपुरवठ्याची समस्या आहे २ दिवसांपासून.,Marathi,Electricity,electricity_supply_issue,Dadar,२ दिवसांपासून,High,No
+CB10237,Residents of Goregaon are facing The footpath is damaged since yesterday.,English,Roads & Infrastructure,damaged_footpath,Goregaon,since yesterday,Low,No
+CB10238,कृपया दखल घ्यावी. Santacruz येथे रस्त्यावर पुरेसा प्रकाश नाही दोन आठवड्यांपासून.,Marathi,Street Lighting,dark_stretch,Santacruz,दोन आठवड्यांपासून,Medium,Yes
+CB10239,Please take action because there is Garbage is being dumped improperly in Powai since yesterday.,English,Waste & Sanitation,illegal_dumping,Powai,since yesterday,Medium,Yes
+CB10240,कृपया दखल घ्यावी. Santacruz येथे सार्वजनिक वाहतूक सुविधा अस्वच्छ आहे एका महिन्यापासून.,Marathi,Public Transport,transport_cleanliness,Santacruz,एका महिन्यापासून,Medium,No
+CB10241,Please take action because there is Wastewater is leaking in Pune for 3 days.,English,Drainage & Sewerage,wastewater_leakage,Pune,for 3 days,Low,No
+CB10242,Aurangabad येथे पाणी घाणेरडे किंवा रंग बदललेले येत आहे असून ही समस्या २ दिवसांपासून आहे.,Marathi,Water Supply,discoloured_water,Aurangabad,२ दिवसांपासून,Medium,Yes
+CB10243,We want to report that There is a water leakage in Malad has continued for 3 days.,English,Water Supply,water_leakage,Malad,for 3 days,High,No
+CB10244,Powai येथे सांडपाण्याची गळती होत आहे एक आठवड्यापासून.,Marathi,Drainage & Sewerage,wastewater_leakage,Powai,एक आठवड्यापासून,High,No
+CB10245,We want to report that A public facility is unhygienic in Andheri West has continued since yesterday.,English,Public Health & Sanitation,unclean_public_facility,Andheri West,since yesterday,Medium,Yes
+CB10246,कृपया दखल घ्यावी. Aurangabad येथे रस्ता खराब झाला आहे एका महिन्यापासून.,Marathi,Roads & Infrastructure,damaged_road,Aurangabad,एका महिन्यापासून,Low,Yes
+CB10247,We want to report that Water pressure is very low in Powai has continued for 3 days.,English,Water Supply,low_pressure,Powai,for 3 days,High,Yes
+CB10248,कृपया दखल घ्यावी. Powai येथे सांडपाण्याची गळती होत आहे ३ दिवसांपासून.,Marathi,Drainage & Sewerage,wastewater_leakage,Powai,३ दिवसांपासून,Low,Yes
+CB10249,Please take action because there is The public transport facility is unclean in Mulund for a month.,English,Public Transport,transport_cleanliness,Mulund,for a month,Low,Yes
+CB10250,कृपया दखल घ्यावी. Pune येथे रस्ता खराब झाला आहे दोन आठवड्यांपासून.,Marathi,Roads & Infrastructure,damaged_road,Pune,दोन आठवड्यांपासून,High,Yes
+CB10251,Please take action because there is The streetlight pole is damaged in Navi Mumbai for 2 days.,English,Street Lighting,damaged_pole,Navi Mumbai,for 2 days,High,No
+CB10252,कृपया दखल घ्यावी. Borivali येथे कचरा उचलला जात नाही कालपासून.,Marathi,Waste & Sanitation,uncollected_garbage,Borivali,कालपासून,Low,No
+CB10253,There is a water leakage in Powai for a month.,English,Water Supply,water_leakage,Powai,for a month,High,No
+CB10254,Dadar परिसरातील नागरिकांना स्ट्रीटलाइट बंद आहे ३ दिवसांपासून.,Marathi,Street Lighting,broken_streetlight,Dadar,३ दिवसांपासून,Low,Yes
+CB10255,Please take action because there is Sewage is overflowing onto the road in Pune since yesterday.,English,Drainage & Sewerage,sewage_overflow,Pune,since yesterday,High,No
+CB10256,Aurangabad येथे वीजेचा खांब खराब झाला आहे कालपासून.,Marathi,Electricity,damaged_electric_pole,Aurangabad,कालपासून,Medium,No
+CB10257,There is an electricity supply problem in Thane for two weeks.,English,Electricity,electricity_supply_issue,Thane,for two weeks,Low,No
+CB10258,Navi Mumbai येथे पाणी घाणेरडे किंवा रंग बदललेले येत आहे असून ही समस्या एका महिन्यापासून आहे.,Marathi,Water Supply,discoloured_water,Navi Mumbai,एका महिन्यापासून,Low,Yes
+CB10259,Wastewater is leaking in Nashik since yesterday.,English,Drainage & Sewerage,wastewater_leakage,Nashik,since yesterday,High,Yes
+CB10260,Dadar परिसरातील नागरिकांना स्ट्रीटलाइट बंद आहे ३ दिवसांपासून.,Marathi,Street Lighting,broken_streetlight,Dadar,३ दिवसांपासून,Medium,No
+CB10261,Please take action because there is There is a water leakage in Goregaon for a month.,English,Water Supply,water_leakage,Goregaon,for a month,Low,No
+CB10262,Kolhapur परिसरातील नागरिकांना पाण्याचा दाब खूप कमी आहे दोन आठवड्यांपासून.,Marathi,Water Supply,low_pressure,Kolhapur,दोन आठवड्यांपासून,Low,No
+CB10263,Please take action because there is There are large potholes on the road in Bandra East since yesterday.,English,Roads & Infrastructure,pothole,Bandra East,since yesterday,High,Yes
+CB10264,Pune येथे परिसरात पाणी साचले आहे असून ही समस्या एका महिन्यापासून आहे.,Marathi,Public Health & Sanitation,stagnant_water,Pune,एका महिन्यापासून,High,No
+CB10265,We want to report that An electricity pole is damaged in Santacruz has continued for 3 days.,English,Electricity,damaged_electric_pole,Santacruz,for 3 days,Low,Yes
+CB10266,कृपया दखल घ्यावी. Thane येथे सांडपाण्याची गळती होत आहे एक आठवड्यापासून.,Marathi,Drainage & Sewerage,wastewater_leakage,Thane,एक आठवड्यापासून,Low,No
+CB10267,Please take action because there is The manhole is open or damaged in Mulund for a month.,English,Drainage & Sewerage,open_manhole,Mulund,for a month,Medium,Yes
+CB10268,कृपया दखल घ्यावी. Mulund येथे बस नेहमी उशिरा येते २ दिवसांपासून.,Marathi,Public Transport,bus_delay,Mulund,२ दिवसांपासून,Low,No
+CB10269,An electricity pole is damaged in Borivali since yesterday.,English,Electricity,damaged_electric_pole,Borivali,since yesterday,Medium,No
+CB10270,Dadar येथे डासांची पैदास होत आहे असून ही समस्या ३ दिवसांपासून आहे.,Marathi,Public Health & Sanitation,mosquito_breeding,Dadar,३ दिवसांपासून,Low,Yes
+CB10271,We want to report that There is an electricity supply problem in Pune has continued for 3 days.,English,Electricity,electricity_supply_issue,Pune,for 3 days,Low,Yes
+CB10272,Jogeshwari येथे सार्वजनिक आरोग्य किंवा स्वच्छतेचा धोका आहे असून ही समस्या २ दिवसांपासून आहे.,Marathi,Public Health & Sanitation,public_health_hazard,Jogeshwari,२ दिवसांपासून,Low,Yes
+CB10273,We want to report that The streetlight pole is damaged in Aurangabad has continued for a month.,English,Street Lighting,damaged_pole,Aurangabad,for a month,Medium,Yes
+CB10274,Borivali येथे पाणी घाणेरडे किंवा रंग बदललेले येत आहे असून ही समस्या ३ दिवसांपासून आहे.,Marathi,Water Supply,discoloured_water,Borivali,३ दिवसांपासून,Medium,No
+CB10275,Residents of Andheri West are facing A road sign is damaged or broken for two weeks.,English,Roads & Infrastructure,broken_road_sign,Andheri West,for two weeks,Medium,No
+CB10276,Nashik येथे पाणी घाणेरडे किंवा रंग बदललेले येत आहे असून ही समस्या एक आठवड्यापासून आहे.,Marathi,Water Supply,discoloured_water,Nashik,एक आठवड्यापासून,High,Yes
+CB10277,Please take action because there is The drain is blocked in Santacruz for 3 days.,English,Drainage & Sewerage,blocked_drain,Santacruz,for 3 days,High,No
+CB10278,कृपया दखल घ्यावी. Aurangabad येथे सांडपाणी रस्त्यावर वाहत आहे दोन आठवड्यांपासून.,Marathi,Drainage & Sewerage,sewage_overflow,Aurangabad,दोन आठवड्यांपासून,High,Yes
+CB10279,Please take action because there is There are large potholes on the road in Borivali for a month.,English,Roads & Infrastructure,pothole,Borivali,for a month,Medium,No
+CB10280,Mulund येथे सांडपाणी रस्त्यावर वाहत आहे असून ही समस्या दोन आठवड्यांपासून आहे.,Marathi,Drainage & Sewerage,sewage_overflow,Mulund,दोन आठवड्यांपासून,Low,No
+CB10281,We want to report that The road has inadequate lighting in Mulund has continued for two weeks.,English,Street Lighting,dark_stretch,Mulund,for two weeks,High,No
+CB10282,Powai येथे वीजपुरवठा खंडित झाला आहे ३ दिवसांपासून.,Marathi,Electricity,power_outage,Powai,३ दिवसांपासून,Medium,No
+CB10283,Residents of Kurla are facing A road sign is damaged or broken for a month.,English,Roads & Infrastructure,broken_road_sign,Kurla,for a month,High,Yes
+CB10284,कृपया दखल घ्यावी. Nashik येथे वीजेचा खांब खराब झाला आहे एका महिन्यापासून.,Marathi,Electricity,damaged_electric_pole,Nashik,एका महिन्यापासून,Low,Yes
+CB10285,We want to report that There are large potholes on the road in Goregaon has continued since yesterday.,English,Roads & Infrastructure,pothole,Goregaon,since yesterday,Medium,No
+CB10286,कृपया दखल घ्यावी. Goregaon येथे सांडपाण्याची गळती होत आहे एक आठवड्यापासून.,Marathi,Drainage & Sewerage,wastewater_leakage,Goregaon,एक आठवड्यापासून,High,Yes
+CB10287,We want to report that Sewage is overflowing onto the road in Nagpur has continued for 3 days.,English,Drainage & Sewerage,sewage_overflow,Nagpur,for 3 days,High,No
+CB10288,Navi Mumbai येथे बस थांबा खराब झाला आहे असून ही समस्या दोन आठवड्यांपासून आहे.,Marathi,Public Transport,bus_stop_damage,Navi Mumbai,दोन आठवड्यांपासून,High,No
+CB10289,Residents of Pune are facing The road has inadequate lighting for 2 days.,English,Street Lighting,dark_stretch,Pune,for 2 days,Medium,No
+CB10290,Malad परिसरातील नागरिकांना कचरा चुकीच्या पद्धतीने टाकला जात आहे एका महिन्यापासून.,Marathi,Waste & Sanitation,illegal_dumping,Malad,एका महिन्यापासून,High,No
+CB10291,Please take action because there is The public transport facility is unclean in Powai for two weeks.,English,Public Transport,transport_cleanliness,Powai,for two weeks,Medium,Yes
+CB10292,Powai येथे सार्वजनिक आरोग्य किंवा स्वच्छतेचा धोका आहे असून ही समस्या २ दिवसांपासून आहे.,Marathi,Public Health & Sanitation,public_health_hazard,Powai,२ दिवसांपासून,Low,No
+CB10293,Please take action because there is There is a water leakage in Navi Mumbai for a month.,English,Water Supply,water_leakage,Navi Mumbai,for a month,High,No
+CB10294,Nagpur येथे कचरापेटी भरून वाहत आहे असून ही समस्या ३ दिवसांपासून आहे.,Marathi,Waste & Sanitation,overflowing_bin,Nagpur,३ दिवसांपासून,Low,Yes
+CB10295,Residents of Andheri West are facing The garbage bin is overflowing for a month.,English,Waste & Sanitation,overflowing_bin,Andheri West,for a month,High,Yes
+CB10296,कृपया दखल घ्यावी. Thane येथे रस्त्यावर मोठे खड्डे आहेत ३ दिवसांपासून.,Marathi,Roads & Infrastructure,pothole,Thane,३ दिवसांपासून,Low,Yes
+CB10297,We want to report that The road surface is badly damaged in Thane has continued for a month.,English,Roads & Infrastructure,damaged_road,Thane,for a month,Medium,Yes
+CB10298,Malad येथे स्ट्रीटलाइटचा खांब खराब झाला आहे एका महिन्यापासून.,Marathi,Street Lighting,damaged_pole,Malad,एका महिन्यापासून,Low,Yes
+CB10299,The road surface is badly damaged in Thane for 2 days.,English,Roads & Infrastructure,damaged_road,Thane,for 2 days,Medium,No
+CB10300,Andheri West येथे मॅनहोल उघडे किंवा खराब आहे असून ही समस्या कालपासून आहे.,Marathi,Drainage & Sewerage,open_manhole,Andheri West,कालपासून,High,Yes
+CB10301,We want to report that The public transport service was cancelled in Navi Mumbai has continued for a month.,English,Public Transport,service_cancellation,Navi Mumbai,for a month,Low,No
+CB10302,Bandra West परिसरातील नागरिकांना स्ट्रीटलाइट बंद आहे ३ दिवसांपासून.,Marathi,Street Lighting,broken_streetlight,Bandra West,३ दिवसांपासून,High,No
+CB10303,Please take action because there is The road has inadequate lighting in Dadar since yesterday.,English,Street Lighting,dark_stretch,Dadar,since yesterday,Medium,Yes
+CB10304,Thane येथे सांडपाण्याची गळती होत आहे असून ही समस्या दोन आठवड्यांपासून आहे.,Marathi,Drainage & Sewerage,wastewater_leakage,Thane,दोन आठवड्यांपासून,Low,No
+CB10305,Please take action because there is Water pressure is very low in Borivali for a week.,English,Water Supply,low_pressure,Borivali,for a week,Low,Yes
+CB10306,Jogeshwari येथे स्ट्रीटलाइटचा खांब खराब झाला आहे असून ही समस्या एक आठवड्यापासून आहे.,Marathi,Street Lighting,damaged_pole,Jogeshwari,एक आठवड्यापासून,Medium,No
+CB10307,Residents of Powai are facing The footpath is damaged for a month.,English,Roads & Infrastructure,damaged_footpath,Powai,for a month,Low,Yes
+CB10308,Dadar येथे वीजेची तार उघडी आहे असून ही समस्या एक आठवड्यापासून आहे.,Marathi,Electricity,exposed_wire,Dadar,एक आठवड्यापासून,High,Yes
+CB10309,Residents of Aurangabad are facing The streetlight pole is damaged for 2 days.,English,Street Lighting,damaged_pole,Aurangabad,for 2 days,Low,No
+CB10310,कृपया दखल घ्यावी. Aurangabad येथे सांडपाण्याची गळती होत आहे ३ दिवसांपासून.,Marathi,Drainage & Sewerage,wastewater_leakage,Aurangabad,३ दिवसांपासून,High,No
+CB10311,We want to report that The garbage bin is overflowing in Aurangabad has continued since yesterday.,English,Waste & Sanitation,overflowing_bin,Aurangabad,since yesterday,High,No
+CB10312,Andheri West परिसरातील नागरिकांना पाणीपुरवठा होत नाही दोन आठवड्यांपासून.,Marathi,Water Supply,no_water,Andheri West,दोन आठवड्यांपासून,High,Yes
+CB10313,The manhole is open or damaged in Nashik for a week.,English,Drainage & Sewerage,open_manhole,Nashik,for a week,High,Yes
+CB10314,Nashik येथे वीजपुरवठा खंडित झाला आहे एक आठवड्यापासून.,Marathi,Electricity,power_outage,Nashik,एक आठवड्यापासून,Medium,Yes
+CB10315,We want to report that There is a public health or sanitation hazard in Kolhapur has continued since yesterday.,English,Public Health & Sanitation,public_health_hazard,Kolhapur,since yesterday,High,No
+CB10316,Kurla परिसरातील नागरिकांना रस्त्यावरील फलक खराब झाला आहे कालपासून.,Marathi,Roads & Infrastructure,broken_road_sign,Kurla,कालपासून,High,Yes
+CB10317,A road sign is damaged or broken in Powai for a month.,English,Roads & Infrastructure,broken_road_sign,Powai,for a month,High,Yes
+CB10318,कृपया दखल घ्यावी. Andheri West येथे पाणी घाणेरडे किंवा रंग बदललेले येत आहे ३ दिवसांपासून.,Marathi,Water Supply,discoloured_water,Andheri West,३ दिवसांपासून,Low,Yes
+CB10319,We want to report that A public facility is unhygienic in Santacruz has continued for a week.,English,Public Health & Sanitation,unclean_public_facility,Santacruz,for a week,Medium,Yes
+CB10320,कृपया दखल घ्यावी. Bandra West येथे मॅनहोल उघडे किंवा खराब आहे २ दिवसांपासून.,Marathi,Drainage & Sewerage,open_manhole,Bandra West,२ दिवसांपासून,High,Yes
+CB10321,We want to report that Garbage has not been collected in Andheri East has continued for 3 days.,English,Waste & Sanitation,uncollected_garbage,Andheri East,for 3 days,High,No
+CB10322,Jogeshwari येथे डासांची पैदास होत आहे असून ही समस्या एक आठवड्यापासून आहे.,Marathi,Public Health & Sanitation,mosquito_breeding,Jogeshwari,एक आठवड्यापासून,Low,No
+CB10323,We want to report that Garbage has not been collected in Andheri West has continued for a month.,English,Waste & Sanitation,uncollected_garbage,Andheri West,for a month,High,Yes
+CB10324,Bandra East येथे कचरापेटी भरून वाहत आहे कालपासून.,Marathi,Waste & Sanitation,overflowing_bin,Bandra East,कालपासून,Medium,Yes
+CB10325,Residents of Santacruz are facing Garbage has not been collected for a week.,English,Waste & Sanitation,uncollected_garbage,Santacruz,for a week,High,Yes
+CB10326,Nashik परिसरातील नागरिकांना रस्ता खराब झाला आहे ३ दिवसांपासून.,Marathi,Roads & Infrastructure,damaged_road,Nashik,३ दिवसांपासून,High,No
+CB10327,Residents of Malad are facing The bus stop is damaged for 2 days.,English,Public Transport,bus_stop_damage,Malad,for 2 days,Medium,No
+CB10328,Nagpur परिसरातील नागरिकांना स्ट्रीटलाइट बंद आहे दोन आठवड्यांपासून.,Marathi,Street Lighting,broken_streetlight,Nagpur,दोन आठवड्यांपासून,High,No
+CB10329,We want to report that There is a power outage in Powai has continued for a month.,English,Electricity,power_outage,Powai,for a month,High,No
+CB10330,कृपया दखल घ्यावी. Borivali येथे सार्वजनिक आरोग्य किंवा स्वच्छतेचा धोका आहे ३ दिवसांपासून.,Marathi,Public Health & Sanitation,public_health_hazard,Borivali,३ दिवसांपासून,Low,No
+CB10331,Residents of Malad are facing The garbage bin is overflowing for a month.,English,Waste & Sanitation,overflowing_bin,Malad,for a month,Medium,Yes
+CB10332,Nagpur परिसरातील नागरिकांना सार्वजनिक आरोग्य किंवा स्वच्छतेचा धोका आहे दोन आठवड्यांपासून.,Marathi,Public Health & Sanitation,public_health_hazard,Nagpur,दोन आठवड्यांपासून,Medium,Yes
+CB10333,The streetlight is not working in Mulund for a month.,English,Street Lighting,broken_streetlight,Mulund,for a month,Medium,No
+CB10334,कृपया दखल घ्यावी. Andheri West येथे पाण्याचा दाब खूप कमी आहे ३ दिवसांपासून.,Marathi,Water Supply,low_pressure,Andheri West,३ दिवसांपासून,High,Yes
+CB10335,Residents of Kolhapur are facing Water pressure is very low for a month.,English,Water Supply,low_pressure,Kolhapur,for a month,Medium,Yes
+CB10336,Andheri East परिसरातील नागरिकांना सार्वजनिक वाहतूक सेवा रद्द झाली आहे २ दिवसांपासून.,Marathi,Public Transport,service_cancellation,Andheri East,२ दिवसांपासून,High,Yes
+CB10337,Residents of Aurangabad are facing An electricity pole is damaged for a month.,English,Electricity,damaged_electric_pole,Aurangabad,for a month,Medium,Yes
+CB10338,Santacruz येथे सार्वजनिक वाहतूक सेवा रद्द झाली आहे असून ही समस्या एक आठवड्यापासून आहे.,Marathi,Public Transport,service_cancellation,Santacruz,एक आठवड्यापासून,Medium,No
+CB10339,We want to report that The public transport facility is unclean in Navi Mumbai has continued since yesterday.,English,Public Transport,transport_cleanliness,Navi Mumbai,since yesterday,Medium,Yes
+CB10340,Thane परिसरातील नागरिकांना सार्वजनिक वाहतूक सेवा रद्द झाली आहे कालपासून.,Marathi,Public Transport,service_cancellation,Thane,कालपासून,High,Yes
+CB10341,We want to report that The footpath is damaged in Nagpur has continued for two weeks.,English,Roads & Infrastructure,damaged_footpath,Nagpur,for two weeks,Medium,Yes
+CB10342,Jogeshwari परिसरातील नागरिकांना कचरा चुकीच्या पद्धतीने टाकला जात आहे एक आठवड्यापासून.,Marathi,Waste & Sanitation,illegal_dumping,Jogeshwari,एक आठवड्यापासून,Medium,No
+CB10343,Residents of Pune are facing The streetlight pole is damaged for a week.,English,Street Lighting,damaged_pole,Pune,for a week,High,No
+CB10344,Nagpur परिसरातील नागरिकांना सांडपाणी रस्त्यावर वाहत आहे एक आठवड्यापासून.,Marathi,Drainage & Sewerage,sewage_overflow,Nagpur,एक आठवड्यापासून,High,Yes
+CB10345,We want to report that There are large potholes on the road in Andheri West has continued since yesterday.,English,Roads & Infrastructure,pothole,Andheri West,since yesterday,Low,Yes
+CB10346,कृपया दखल घ्यावी. Andheri East येथे पाण्याचा दाब खूप कमी आहे २ दिवसांपासून.,Marathi,Water Supply,low_pressure,Andheri East,२ दिवसांपासून,Medium,Yes
+CB10347,We want to report that There is an electricity supply problem in Andheri East has continued since yesterday.,English,Electricity,electricity_supply_issue,Andheri East,since yesterday,Low,Yes
+CB10348,कृपया दखल घ्यावी. Malad येथे रस्त्यावर पुरेसा प्रकाश नाही कालपासून.,Marathi,Street Lighting,dark_stretch,Malad,कालपासून,Low,Yes
+CB10349,Please take action because there is Water pressure is very low in Jogeshwari for 2 days.,English,Water Supply,low_pressure,Jogeshwari,for 2 days,Medium,No
+CB10350,कृपया दखल घ्यावी. Powai येथे परिसरात पाणी साचले आहे एक आठवड्यापासून.,Marathi,Public Health & Sanitation,stagnant_water,Powai,एक आठवड्यापासून,High,Yes
+CB10351,Garbage is being dumped improperly in Bandra East for a month.,English,Waste & Sanitation,illegal_dumping,Bandra East,for a month,Low,No
+CB10352,Nagpur येथे सार्वजनिक आरोग्य किंवा स्वच्छतेचा धोका आहे एक आठवड्यापासून.,Marathi,Public Health & Sanitation,public_health_hazard,Nagpur,एक आठवड्यापासून,High,Yes
+CB10353,Please take action because there is The drain is blocked in Pune for a week.,English,Drainage & Sewerage,blocked_drain,Pune,for a week,High,Yes
+CB10354,कृपया दखल घ्यावी. Goregaon येथे रस्ता खराब झाला आहे एका महिन्यापासून.,Marathi,Roads & Infrastructure,damaged_road,Goregaon,एका महिन्यापासून,Medium,Yes
+CB10355,There is a water leakage in Nagpur for two weeks.,English,Water Supply,water_leakage,Nagpur,for two weeks,Low,No
+CB10356,कृपया दखल घ्यावी. Kolhapur येथे रस्ता खराब झाला आहे २ दिवसांपासून.,Marathi,Roads & Infrastructure,damaged_road,Kolhapur,२ दिवसांपासून,Low,No
+CB10357,Please take action because there is Sewage is overflowing onto the road in Kolhapur for a week.,English,Drainage & Sewerage,sewage_overflow,Kolhapur,for a week,Medium,Yes
+CB10358,कृपया दखल घ्यावी. Andheri West येथे पाण्याची गळती होत आहे कालपासून.,Marathi,Water Supply,water_leakage,Andheri West,कालपासून,Low,Yes
+CB10359,Please take action because there is The public transport facility is unclean in Mulund since yesterday.,English,Public Transport,transport_cleanliness,Mulund,since yesterday,Medium,No
+CB10360,कृपया दखल घ्यावी. Nagpur येथे कचरा चुकीच्या पद्धतीने टाकला जात आहे एक आठवड्यापासून.,Marathi,Waste & Sanitation,illegal_dumping,Nagpur,एक आठवड्यापासून,Low,No
+CB10361,There is a water leakage in Jogeshwari for a month.,English,Water Supply,water_leakage,Jogeshwari,for a month,Low,No
+CB10362,कृपया दखल घ्यावी. Borivali येथे सांडपाण्याची गळती होत आहे एका महिन्यापासून.,Marathi,Drainage & Sewerage,wastewater_leakage,Borivali,एका महिन्यापासून,Medium,No
+CB10363,We want to report that There is no water supply in Andheri East has continued for 3 days.,English,Water Supply,no_water,Andheri East,for 3 days,Medium,No
+CB10364,कृपया दखल घ्यावी. Bandra East येथे पाण्याचा दाब खूप कमी आहे २ दिवसांपासून.,Marathi,Water Supply,low_pressure,Bandra East,२ दिवसांपासून,Medium,No
+CB10365,There is no water supply in Bandra East for 3 days.,English,Water Supply,no_water,Bandra East,for 3 days,High,No
+CB10366,कृपया दखल घ्यावी. Malad येथे परिसरात पाणी साचले आहे एक आठवड्यापासून.,Marathi,Public Health & Sanitation,stagnant_water,Malad,एक आठवड्यापासून,Low,Yes
+CB10367,Please take action because there is Wastewater is leaking in Dadar for 2 days.,English,Drainage & Sewerage,wastewater_leakage,Dadar,for 2 days,Medium,No
+CB10368,कृपया दखल घ्यावी. Bandra East येथे वीजेचा खांब खराब झाला आहे २ दिवसांपासून.,Marathi,Electricity,damaged_electric_pole,Bandra East,२ दिवसांपासून,Medium,No
+CB10369,Please take action because there is The streetlight pole is damaged in Bandra East for 3 days.,English,Street Lighting,damaged_pole,Bandra East,for 3 days,Low,No
+CB10370,Bandra West येथे परिसरात स्वच्छतेची समस्या आहे असून ही समस्या २ दिवसांपासून आहे.,Marathi,Waste & Sanitation,public_sanitation,Bandra West,२ दिवसांपासून,Low,No
+CB10371,Please take action because there is The public transport facility is unclean in Mulund for a week.,English,Public Transport,transport_cleanliness,Mulund,for a week,Medium,Yes
+CB10372,Aurangabad परिसरातील नागरिकांना स्ट्रीटलाइटचा खांब खराब झाला आहे एका महिन्यापासून.,Marathi,Street Lighting,damaged_pole,Aurangabad,एका महिन्यापासून,Medium,No
+CB10373,We want to report that Wastewater is leaking in Mulund has continued for 3 days.,English,Drainage & Sewerage,wastewater_leakage,Mulund,for 3 days,High,Yes
+CB10374,Kurla येथे सार्वजनिक वाहतूक सुविधा अस्वच्छ आहे असून ही समस्या एक आठवड्यापासून आहे.,Marathi,Public Transport,transport_cleanliness,Kurla,एक आठवड्यापासून,Low,Yes
+CB10375,Residents of Navi Mumbai are facing The drain is blocked for a month.,English,Drainage & Sewerage,blocked_drain,Navi Mumbai,for a month,Medium,No
+CB10376,Pune येथे पाणी घाणेरडे किंवा रंग बदललेले येत आहे असून ही समस्या २ दिवसांपासून आहे.,Marathi,Water Supply,discoloured_water,Pune,२ दिवसांपासून,Low,No
+CB10377,We want to report that Wastewater is leaking in Santacruz has continued since yesterday.,English,Drainage & Sewerage,wastewater_leakage,Santacruz,since yesterday,High,No
+CB10378,Nagpur येथे सार्वजनिक आरोग्य किंवा स्वच्छतेचा धोका आहे असून ही समस्या कालपासून आहे.,Marathi,Public Health & Sanitation,public_health_hazard,Nagpur,कालपासून,High,Yes
+CB10379,Water pressure is very low in Powai for 2 days.,English,Water Supply,low_pressure,Powai,for 2 days,High,No
+CB10380,Bandra West येथे सार्वजनिक वाहतूक सुविधा अस्वच्छ आहे कालपासून.,Marathi,Public Transport,transport_cleanliness,Bandra West,कालपासून,Medium,Yes
+CB10381,We want to report that The area has a sanitation problem in Powai has continued for a week.,English,Waste & Sanitation,public_sanitation,Powai,for a week,High,Yes
+CB10382,Pune येथे बस नेहमी उशिरा येते असून ही समस्या कालपासून आहे.,Marathi,Public Transport,bus_delay,Pune,कालपासून,Medium,Yes
+CB10383,Please take action because there is Water pressure is very low in Powai for 3 days.,English,Water Supply,low_pressure,Powai,for 3 days,Medium,Yes
+CB10384,कृपया दखल घ्यावी. Pune येथे वीजेची तार उघडी आहे कालपासून.,Marathi,Electricity,exposed_wire,Pune,कालपासून,High,No
+CB10385,The bus service is frequently delayed in Malad since yesterday.,English,Public Transport,bus_delay,Malad,since yesterday,Low,No
+CB10386,Jogeshwari परिसरातील नागरिकांना पाण्याचा दाब खूप कमी आहे दोन आठवड्यांपासून.,Marathi,Water Supply,low_pressure,Jogeshwari,दोन आठवड्यांपासून,High,Yes
+CB10387,We want to report that The public transport facility is unclean in Navi Mumbai has continued for 2 days.,English,Public Transport,transport_cleanliness,Navi Mumbai,for 2 days,High,Yes
+CB10388,Santacruz परिसरातील नागरिकांना सांडपाण्याची गळती होत आहे कालपासून.,Marathi,Drainage & Sewerage,wastewater_leakage,Santacruz,कालपासून,Medium,No
+CB10389,Please take action because there is Water is stagnant in the area in Goregaon for 2 days.,English,Public Health & Sanitation,stagnant_water,Goregaon,for 2 days,High,Yes
+CB10390,Powai परिसरातील नागरिकांना पाण्याचा दाब खूप कमी आहे ३ दिवसांपासून.,Marathi,Water Supply,low_pressure,Powai,३ दिवसांपासून,Medium,Yes
+CB10391,Please take action because there is The road has inadequate lighting in Pune for two weeks.,English,Street Lighting,dark_stretch,Pune,for two weeks,High,No
+CB10392,कृपया दखल घ्यावी. Powai येथे परिसरात पाणी साचले आहे ३ दिवसांपासून.,Marathi,Public Health & Sanitation,stagnant_water,Powai,३ दिवसांपासून,High,Yes
+CB10393,Residents of Kolhapur are facing The road has inadequate lighting since yesterday.,English,Street Lighting,dark_stretch,Kolhapur,since yesterday,Medium,Yes
+CB10394,Bandra West येथे कचरा चुकीच्या पद्धतीने टाकला जात आहे असून ही समस्या २ दिवसांपासून आहे.,Marathi,Waste & Sanitation,illegal_dumping,Bandra West,२ दिवसांपासून,High,Yes
+CB10395,We want to report that There is a public health or sanitation hazard in Aurangabad has continued for 2 days.,English,Public Health & Sanitation,public_health_hazard,Aurangabad,for 2 days,Medium,Yes
+CB10396,कृपया दखल घ्यावी. Nagpur येथे वीजेचा खांब खराब झाला आहे २ दिवसांपासून.,Marathi,Electricity,damaged_electric_pole,Nagpur,२ दिवसांपासून,Medium,Yes
+CB10397,The manhole is open or damaged in Navi Mumbai for two weeks.,English,Drainage & Sewerage,open_manhole,Navi Mumbai,for two weeks,Medium,Yes
+CB10398,कृपया दखल घ्यावी. Goregaon येथे वीजेचा खांब खराब झाला आहे एक आठवड्यापासून.,Marathi,Electricity,damaged_electric_pole,Goregaon,एक आठवड्यापासून,Medium,No
+CB10399,There is a public health or sanitation hazard in Pune for 2 days.,English,Public Health & Sanitation,public_health_hazard,Pune,for 2 days,High,Yes
+CB10400,Andheri West परिसरातील नागरिकांना कचरा चुकीच्या पद्धतीने टाकला जात आहे ३ दिवसांपासून.,Marathi,Waste & Sanitation,illegal_dumping,Andheri West,३ दिवसांपासून,High,No
+CB10401,We want to report that Wastewater is leaking in Kolhapur has continued for a month.,English,Drainage & Sewerage,wastewater_leakage,Kolhapur,for a month,High,Yes
+CB10402,Nagpur येथे पाण्याची गळती होत आहे ३ दिवसांपासून.,Marathi,Water Supply,water_leakage,Nagpur,३ दिवसांपासून,High,No
+CB10403,Residents of Bandra West are facing The area has a sanitation problem for a month.,English,Waste & Sanitation,public_sanitation,Bandra West,for a month,Medium,Yes
+CB10404,कृपया दखल घ्यावी. Powai येथे वीजेची तार उघडी आहे कालपासून.,Marathi,Electricity,exposed_wire,Powai,कालपासून,Low,Yes
+CB10405,We want to report that Garbage is being dumped improperly in Aurangabad has continued for a month.,English,Waste & Sanitation,illegal_dumping,Aurangabad,for a month,Low,Yes
+CB10406,Andheri West येथे कचरापेटी भरून वाहत आहे असून ही समस्या दोन आठवड्यांपासून आहे.,Marathi,Waste & Sanitation,overflowing_bin,Andheri West,दोन आठवड्यांपासून,High,No
+CB10407,Please take action because there is The manhole is open or damaged in Malad for 3 days.,English,Drainage & Sewerage,open_manhole,Malad,for 3 days,High,Yes
+CB10408,Andheri West परिसरातील नागरिकांना सांडपाण्याची गळती होत आहे ३ दिवसांपासून.,Marathi,Drainage & Sewerage,wastewater_leakage,Andheri West,३ दिवसांपासून,High,Yes
+CB10409,We want to report that The garbage bin is overflowing in Mulund has continued for 2 days.,English,Waste & Sanitation,overflowing_bin,Mulund,for 2 days,Medium,Yes
+CB10410,कृपया दखल घ्यावी. Thane येथे रस्त्यावर पुरेसा प्रकाश नाही एक आठवड्यापासून.,Marathi,Street Lighting,dark_stretch,Thane,एक आठवड्यापासून,Low,Yes
+CB10411,We want to report that A public facility is unhygienic in Powai has continued for a week.,English,Public Health & Sanitation,unclean_public_facility,Powai,for a week,Medium,Yes
+CB10412,कृपया दखल घ्यावी. Powai येथे पाणी घाणेरडे किंवा रंग बदललेले येत आहे कालपासून.,Marathi,Water Supply,discoloured_water,Powai,कालपासून,Low,No
+CB10413,Please take action because there is The area has a sanitation problem in Kurla for 3 days.,English,Waste & Sanitation,public_sanitation,Kurla,for 3 days,Medium,Yes
+CB10414,Andheri West येथे वीजेची तार उघडी आहे कालपासून.,Marathi,Electricity,exposed_wire,Andheri West,कालपासून,High,No
+CB10415,We want to report that There are large potholes on the road in Dadar has continued for a week.,English,Roads & Infrastructure,pothole,Dadar,for a week,Low,No
+CB10416,Malad येथे कचरापेटी भरून वाहत आहे असून ही समस्या २ दिवसांपासून आहे.,Marathi,Waste & Sanitation,overflowing_bin,Malad,२ दिवसांपासून,Low,No
+CB10417,Residents of Powai are facing The streetlight is not working for a month.,English,Street Lighting,broken_streetlight,Powai,for a month,Low,No
+CB10418,Jogeshwari येथे रस्त्यावर पुरेसा प्रकाश नाही एक आठवड्यापासून.,Marathi,Street Lighting,dark_stretch,Jogeshwari,एक आठवड्यापासून,High,Yes
+CB10419,Residents of Pune are facing The road surface is badly damaged since yesterday.,English,Roads & Infrastructure,damaged_road,Pune,since yesterday,High,Yes
+CB10420,Andheri East येथे वीजपुरवठा खंडित झाला आहे असून ही समस्या एका महिन्यापासून आहे.,Marathi,Electricity,power_outage,Andheri East,एका महिन्यापासून,Low,No
+CB10421,We want to report that Wastewater is leaking in Bandra East has continued for 2 days.,English,Drainage & Sewerage,wastewater_leakage,Bandra East,for 2 days,Low,Yes
+CB10422,Powai परिसरातील नागरिकांना पाण्याची गळती होत आहे ३ दिवसांपासून.,Marathi,Water Supply,water_leakage,Powai,३ दिवसांपासून,Medium,Yes
+CB10423,The drain is blocked in Nashik for two weeks.,English,Drainage & Sewerage,blocked_drain,Nashik,for two weeks,High,Yes
+CB10424,Goregaon परिसरातील नागरिकांना वीजेची तार उघडी आहे एका महिन्यापासून.,Marathi,Electricity,exposed_wire,Goregaon,एका महिन्यापासून,Medium,No
+CB10425,Garbage has not been collected in Bandra West for 2 days.,English,Waste & Sanitation,uncollected_garbage,Bandra West,for 2 days,High,No
+CB10426,Mulund परिसरातील नागरिकांना सार्वजनिक वाहतूक सुविधा अस्वच्छ आहे २ दिवसांपासून.,Marathi,Public Transport,transport_cleanliness,Mulund,२ दिवसांपासून,Medium,Yes
+CB10427,Please take action because there is Garbage is being dumped improperly in Andheri East for a month.,English,Waste & Sanitation,illegal_dumping,Andheri East,for a month,Low,Yes
+CB10428,कृपया दखल घ्यावी. Andheri West येथे सार्वजनिक सुविधा अस्वच्छ आहे २ दिवसांपासून.,Marathi,Public Health & Sanitation,unclean_public_facility,Andheri West,२ दिवसांपासून,Medium,Yes
+CB10429,The area has a sanitation problem in Aurangabad since yesterday.,English,Waste & Sanitation,public_sanitation,Aurangabad,since yesterday,Medium,No
+CB10430,Kolhapur येथे सांडपाण्याची गळती होत आहे असून ही समस्या एक आठवड्यापासून आहे.,Marathi,Drainage & Sewerage,wastewater_leakage,Kolhapur,एक आठवड्यापासून,High,Yes
+CB10431,There is a power outage in Andheri East for two weeks.,English,Electricity,power_outage,Andheri East,for two weeks,Low,No
+CB10432,Andheri West येथे कचरा उचलला जात नाही असून ही समस्या एक आठवड्यापासून आहे.,Marathi,Waste & Sanitation,uncollected_garbage,Andheri West,एक आठवड्यापासून,High,No
+CB10433,Residents of Bandra East are facing There is a public health or sanitation hazard for a month.,English,Public Health & Sanitation,public_health_hazard,Bandra East,for a month,Medium,Yes
+CB10434,Nashik परिसरातील नागरिकांना स्ट्रीटलाइट बंद आहे २ दिवसांपासून.,Marathi,Street Lighting,broken_streetlight,Nashik,२ दिवसांपासून,High,No
+CB10435,We want to report that Water is stagnant in the area in Malad has continued for a month.,English,Public Health & Sanitation,stagnant_water,Malad,for a month,High,Yes
+CB10436,Bandra East येथे रस्ता खराब झाला आहे एक आठवड्यापासून.,Marathi,Roads & Infrastructure,damaged_road,Bandra East,एक आठवड्यापासून,Medium,Yes
+CB10437,The road has inadequate lighting in Dadar since yesterday.,English,Street Lighting,dark_stretch,Dadar,since yesterday,High,Yes
+CB10438,Pune येथे रस्ता खराब झाला आहे असून ही समस्या ३ दिवसांपासून आहे.,Marathi,Roads & Infrastructure,damaged_road,Pune,३ दिवसांपासून,Low,No
+CB10439,Please take action because there is The manhole is open or damaged in Bandra West since yesterday.,English,Drainage & Sewerage,open_manhole,Bandra West,since yesterday,Medium,No
+CB10440,Kolhapur येथे पाण्याची गळती होत आहे एका महिन्यापासून.,Marathi,Water Supply,water_leakage,Kolhapur,एका महिन्यापासून,Medium,No
+CB10441,Residents of Pune are facing The bus service is frequently delayed for two weeks.,English,Public Transport,bus_delay,Pune,for two weeks,Medium,Yes
+CB10442,Kolhapur येथे स्ट्रीटलाइट बंद आहे एका महिन्यापासून.,Marathi,Street Lighting,broken_streetlight,Kolhapur,एका महिन्यापासून,Low,Yes
+CB10443,We want to report that There are large potholes on the road in Jogeshwari has continued since yesterday.,English,Roads & Infrastructure,pothole,Jogeshwari,since yesterday,Medium,No
+CB10444,कृपया दखल घ्यावी. Andheri West येथे सांडपाणी रस्त्यावर वाहत आहे दोन आठवड्यांपासून.,Marathi,Drainage & Sewerage,sewage_overflow,Andheri West,दोन आठवड्यांपासून,Low,No
+CB10445,The area has a sanitation problem in Mulund for 3 days.,English,Waste & Sanitation,public_sanitation,Mulund,for 3 days,High,No
+CB10446,Dadar येथे पाणीपुरवठा होत नाही २ दिवसांपासून.,Marathi,Water Supply,no_water,Dadar,२ दिवसांपासून,Medium,Yes
+CB10447,An electrical wire is exposed in Malad for 3 days.,English,Electricity,exposed_wire,Malad,for 3 days,High,No
+CB10448,Goregaon येथे फुटपाथ खराब झाला आहे असून ही समस्या ३ दिवसांपासून आहे.,Marathi,Roads & Infrastructure,damaged_footpath,Goregaon,३ दिवसांपासून,High,Yes
+CB10449,Residents of Kolhapur are facing An electrical wire is exposed for a week.,English,Electricity,exposed_wire,Kolhapur,for a week,High,Yes
+CB10450,Thane परिसरातील नागरिकांना नाला तुंबला आहे कालपासून.,Marathi,Drainage & Sewerage,blocked_drain,Thane,कालपासून,High,No
+CB10451,We want to report that The footpath is damaged in Andheri East has continued for a month.,English,Roads & Infrastructure,damaged_footpath,Andheri East,for a month,High,No
+CB10452,कृपया दखल घ्यावी. Nashik येथे पाण्याचा दाब खूप कमी आहे २ दिवसांपासून.,Marathi,Water Supply,low_pressure,Nashik,२ दिवसांपासून,Medium,Yes
+CB10453,Residents of Bandra East are facing The manhole is open or damaged since yesterday.,English,Drainage & Sewerage,open_manhole,Bandra East,since yesterday,High,No
+CB10454,Bandra East येथे सार्वजनिक वाहतूक सुविधा अस्वच्छ आहे दोन आठवड्यांपासून.,Marathi,Public Transport,transport_cleanliness,Bandra East,दोन आठवड्यांपासून,High,Yes
+CB10455,Water is stagnant in the area in Kolhapur for two weeks.,English,Public Health & Sanitation,stagnant_water,Kolhapur,for two weeks,Medium,Yes
+CB10456,कृपया दखल घ्यावी. Kurla येथे कचरा चुकीच्या पद्धतीने टाकला जात आहे ३ दिवसांपासून.,Marathi,Waste & Sanitation,illegal_dumping,Kurla,३ दिवसांपासून,High,No
+CB10457,The public transport facility is unclean in Kurla for 2 days.,English,Public Transport,transport_cleanliness,Kurla,for 2 days,Low,Yes
+CB10458,कृपया दखल घ्यावी. Bandra West येथे पाण्याचा दाब खूप कमी आहे २ दिवसांपासून.,Marathi,Water Supply,low_pressure,Bandra West,२ दिवसांपासून,Medium,No
+CB10459,Residents of Nagpur are facing Water is stagnant in the area for 3 days.,English,Public Health & Sanitation,stagnant_water,Nagpur,for 3 days,Medium,No
+CB10460,Bandra West परिसरातील नागरिकांना वीजेची तार उघडी आहे कालपासून.,Marathi,Electricity,exposed_wire,Bandra West,कालपासून,High,No
+CB10461,The road surface is badly damaged in Mulund for 2 days.,English,Roads & Infrastructure,damaged_road,Mulund,for 2 days,High,Yes
+CB10462,Nashik येथे सार्वजनिक वाहतूक सुविधा अस्वच्छ आहे असून ही समस्या कालपासून आहे.,Marathi,Public Transport,transport_cleanliness,Nashik,कालपासून,Medium,Yes
+CB10463,Residents of Navi Mumbai are facing A road sign is damaged or broken for two weeks.,English,Roads & Infrastructure,broken_road_sign,Navi Mumbai,for two weeks,Low,No
+CB10464,Bandra West येथे पाण्याचा दाब खूप कमी आहे कालपासून.,Marathi,Water Supply,low_pressure,Bandra West,कालपासून,Low,Yes
+CB10465,The area has a sanitation problem in Powai for a month.,English,Waste & Sanitation,public_sanitation,Powai,for a month,High,No
+CB10466,कृपया दखल घ्यावी. Bandra East येथे पाणीपुरवठा होत नाही २ दिवसांपासून.,Marathi,Water Supply,no_water,Bandra East,२ दिवसांपासून,Low,Yes
+CB10467,The bus service is frequently delayed in Andheri West for a week.,English,Public Transport,bus_delay,Andheri West,for a week,Low,No
+CB10468,कृपया दखल घ्यावी. Andheri East येथे सार्वजनिक आरोग्य किंवा स्वच्छतेचा धोका आहे एक आठवड्यापासून.,Marathi,Public Health & Sanitation,public_health_hazard,Andheri East,एक आठवड्यापासून,Low,No
+CB10469,We want to report that The garbage bin is overflowing in Kurla has continued for 3 days.,English,Waste & Sanitation,overflowing_bin,Kurla,for 3 days,Low,Yes
+CB10470,कृपया दखल घ्यावी. Pune येथे कचरा चुकीच्या पद्धतीने टाकला जात आहे एक आठवड्यापासून.,Marathi,Waste & Sanitation,illegal_dumping,Pune,एक आठवड्यापासून,Low,Yes
+CB10471,Residents of Borivali are facing The streetlight pole is damaged for a week.,English,Street Lighting,damaged_pole,Borivali,for a week,High,Yes
+CB10472,कृपया दखल घ्यावी. Powai येथे रस्त्यावरील फलक खराब झाला आहे एक आठवड्यापासून.,Marathi,Roads & Infrastructure,broken_road_sign,Powai,एक आठवड्यापासून,Medium,No
+CB10473,Please take action because there is A public facility is unhygienic in Dadar since yesterday.,English,Public Health & Sanitation,unclean_public_facility,Dadar,since yesterday,High,Yes
+CB10474,Andheri West येथे फुटपाथ खराब झाला आहे असून ही समस्या एक आठवड्यापासून आहे.,Marathi,Roads & Infrastructure,damaged_footpath,Andheri West,एक आठवड्यापासून,High,Yes
+CB10475,Residents of Jogeshwari are facing The drain is blocked for a month.,English,Drainage & Sewerage,blocked_drain,Jogeshwari,for a month,Medium,Yes
+CB10476,Powai परिसरातील नागरिकांना परिसरात स्वच्छतेची समस्या आहे २ दिवसांपासून.,Marathi,Waste & Sanitation,public_sanitation,Powai,२ दिवसांपासून,Low,No
+CB10477,Residents of Powai are facing The bus service is frequently delayed for two weeks.,English,Public Transport,bus_delay,Powai,for two weeks,High,Yes
+CB10478,Dadar येथे वीजेची तार उघडी आहे एक आठवड्यापासून.,Marathi,Electricity,exposed_wire,Dadar,एक आठवड्यापासून,Low,Yes
+CB10479,We want to report that The garbage bin is overflowing in Andheri East has continued for two weeks.,English,Waste & Sanitation,overflowing_bin,Andheri East,for two weeks,Low,No
+CB10480,Mulund परिसरातील नागरिकांना कचरापेटी भरून वाहत आहे एका महिन्यापासून.,Marathi,Waste & Sanitation,overflowing_bin,Mulund,एका महिन्यापासून,Medium,Yes
+CB10481,Residents of Kolhapur are facing The road surface is badly damaged for a month.,English,Roads & Infrastructure,damaged_road,Kolhapur,for a month,Low,No
+CB10482,Santacruz येथे पाण्याची गळती होत आहे दोन आठवड्यांपासून.,Marathi,Water Supply,water_leakage,Santacruz,दोन आठवड्यांपासून,Medium,No
+CB10483,We want to report that The bus stop is damaged in Dadar has continued for a month.,English,Public Transport,bus_stop_damage,Dadar,for a month,High,No
+CB10484,Nagpur येथे बस थांबा खराब झाला आहे असून ही समस्या एका महिन्यापासून आहे.,Marathi,Public Transport,bus_stop_damage,Nagpur,एका महिन्यापासून,Low,Yes
+CB10485,Residents of Malad are facing A public facility is unhygienic for 2 days.,English,Public Health & Sanitation,unclean_public_facility,Malad,for 2 days,High,Yes
+CB10486,Dadar येथे परिसरात पाणी साचले आहे असून ही समस्या दोन आठवड्यांपासून आहे.,Marathi,Public Health & Sanitation,stagnant_water,Dadar,दोन आठवड्यांपासून,High,Yes
+CB10487,The supplied water is dirty or discoloured in Borivali for 3 days.,English,Water Supply,discoloured_water,Borivali,for 3 days,Low,No
+CB10488,Bandra East येथे बस थांबा खराब झाला आहे असून ही समस्या एका महिन्यापासून आहे.,Marathi,Public Transport,bus_stop_damage,Bandra East,एका महिन्यापासून,Medium,Yes
+CB10489,The streetlight is not working in Jogeshwari for a month.,English,Street Lighting,broken_streetlight,Jogeshwari,for a month,Medium,No
+CB10490,कृपया दखल घ्यावी. Andheri West येथे पाणीपुरवठा होत नाही एक आठवड्यापासून.,Marathi,Water Supply,no_water,Andheri West,एक आठवड्यापासून,High,No
+CB10491,Please take action because there is Wastewater is leaking in Pune for a week.,English,Drainage & Sewerage,wastewater_leakage,Pune,for a week,High,No
+CB10492,Kolhapur परिसरातील नागरिकांना पाणी घाणेरडे किंवा रंग बदललेले येत आहे एका महिन्यापासून.,Marathi,Water Supply,discoloured_water,Kolhapur,एका महिन्यापासून,Low,No
+CB10493,Please take action because there is There is no water supply in Malad since yesterday.,English,Water Supply,no_water,Malad,since yesterday,Medium,Yes
+CB10494,Dadar परिसरातील नागरिकांना पाण्याची गळती होत आहे एक आठवड्यापासून.,Marathi,Water Supply,water_leakage,Dadar,एक आठवड्यापासून,High,Yes
+CB10495,We want to report that There is a water leakage in Aurangabad has continued for two weeks.,English,Water Supply,water_leakage,Aurangabad,for two weeks,High,Yes
+CB10496,Aurangabad परिसरातील नागरिकांना डासांची पैदास होत आहे एक आठवड्यापासून.,Marathi,Public Health & Sanitation,mosquito_breeding,Aurangabad,एक आठवड्यापासून,Low,Yes
+CB10497,Please take action because there is The bus stop is damaged in Goregaon for a week.,English,Public Transport,bus_stop_damage,Goregaon,for a week,High,No
+CB10498,कृपया दखल घ्यावी. Bandra West येथे स्ट्रीटलाइट बंद आहे कालपासून.,Marathi,Street Lighting,broken_streetlight,Bandra West,कालपासून,High,No
+CB10499,We want to report that The drain is blocked in Powai has continued since yesterday.,English,Drainage & Sewerage,blocked_drain,Powai,since yesterday,Low,No
+CB10500,Bandra West परिसरातील नागरिकांना वीजेचा खांब खराब झाला आहे कालपासून.,Marathi,Electricity,damaged_electric_pole,Bandra West,कालपासून,Low,No
+CB10501,We want to report that The supplied water is dirty or discoloured in Bandra West has continued for 3 days.,English,Water Supply,discoloured_water,Bandra West,for 3 days,Medium,No
+CB10502,Nagpur परिसरातील नागरिकांना स्ट्रीटलाइट बंद आहे एक आठवड्यापासून.,Marathi,Street Lighting,broken_streetlight,Nagpur,एक आठवड्यापासून,Medium,No
+CB10503,Please take action because there is The bus stop is damaged in Navi Mumbai since yesterday.,English,Public Transport,bus_stop_damage,Navi Mumbai,since yesterday,Medium,No
+CB10504,Kurla येथे स्ट्रीटलाइट बंद आहे दोन आठवड्यांपासून.,Marathi,Street Lighting,broken_streetlight,Kurla,दोन आठवड्यांपासून,Low,Yes
+CB10505,Residents of Nagpur are facing There is a water leakage for a week.,English,Water Supply,water_leakage,Nagpur,for a week,High,Yes
+CB10506,कृपया दखल घ्यावी. Nagpur येथे सार्वजनिक आरोग्य किंवा स्वच्छतेचा धोका आहे एका महिन्यापासून.,Marathi,Public Health & Sanitation,public_health_hazard,Nagpur,एका महिन्यापासून,High,Yes
+CB10507,An electrical wire is exposed in Bandra East for a week.,English,Electricity,exposed_wire,Bandra East,for a week,High,Yes
+CB10508,Dadar परिसरातील नागरिकांना पाणी घाणेरडे किंवा रंग बदललेले येत आहे २ दिवसांपासून.,Marathi,Water Supply,discoloured_water,Dadar,२ दिवसांपासून,Low,Yes
+CB10509,We want to report that A road sign is damaged or broken in Bandra East has continued for a month.,English,Roads & Infrastructure,broken_road_sign,Bandra East,for a month,Low,Yes
+CB10510,कृपया दखल घ्यावी. Bandra East येथे स्ट्रीटलाइटचा खांब खराब झाला आहे कालपासून.,Marathi,Street Lighting,damaged_pole,Bandra East,कालपासून,High,No
+CB10511,The public transport service was cancelled in Nashik for a week.,English,Public Transport,service_cancellation,Nashik,for a week,High,No
+CB10512,Borivali येथे पाणी घाणेरडे किंवा रंग बदललेले येत आहे २ दिवसांपासून.,Marathi,Water Supply,discoloured_water,Borivali,२ दिवसांपासून,Low,Yes
+CB10513,Please take action because there is The road has inadequate lighting in Powai for a week.,English,Street Lighting,dark_stretch,Powai,for a week,Medium,No
+CB10514,कृपया दखल घ्यावी. Dadar येथे वीजपुरवठा खंडित झाला आहे ३ दिवसांपासून.,Marathi,Electricity,power_outage,Dadar,३ दिवसांपासून,Low,No
+CB10515,Residents of Mulund are facing A road sign is damaged or broken for a month.,English,Roads & Infrastructure,broken_road_sign,Mulund,for a month,Low,No
+CB10516,Andheri East येथे स्ट्रीटलाइटचा खांब खराब झाला आहे असून ही समस्या ३ दिवसांपासून आहे.,Marathi,Street Lighting,damaged_pole,Andheri East,३ दिवसांपासून,Medium,No
+CB10517,Please take action because there is There is a power outage in Jogeshwari for 2 days.,English,Electricity,power_outage,Jogeshwari,for 2 days,High,No
+CB10518,Thane येथे सार्वजनिक वाहतूक सेवा रद्द झाली आहे दोन आठवड्यांपासून.,Marathi,Public Transport,service_cancellation,Thane,दोन आठवड्यांपासून,Low,No
+CB10519,Please take action because there is The area has a sanitation problem in Pune for two weeks.,English,Waste & Sanitation,public_sanitation,Pune,for two weeks,Low,Yes
+CB10520,Nashik परिसरातील नागरिकांना पाण्याची गळती होत आहे एक आठवड्यापासून.,Marathi,Water Supply,water_leakage,Nashik,एक आठवड्यापासून,High,Yes
+CB10521,Residents of Goregaon are facing Sewage is overflowing onto the road since yesterday.,English,Drainage & Sewerage,sewage_overflow,Goregaon,since yesterday,Low,No
+CB10522,Goregaon येथे फुटपाथ खराब झाला आहे असून ही समस्या ३ दिवसांपासून आहे.,Marathi,Roads & Infrastructure,damaged_footpath,Goregaon,३ दिवसांपासून,Medium,No
+CB10523,We want to report that There is no water supply in Jogeshwari has continued for 3 days.,English,Water Supply,no_water,Jogeshwari,for 3 days,High,No
+CB10524,Kolhapur येथे सांडपाण्याची गळती होत आहे असून ही समस्या दोन आठवड्यांपासून आहे.,Marathi,Drainage & Sewerage,wastewater_leakage,Kolhapur,दोन आठवड्यांपासून,Medium,Yes
+CB10525,The road has inadequate lighting in Bandra East for 3 days.,English,Street Lighting,dark_stretch,Bandra East,for 3 days,Medium,Yes
+CB10526,Jogeshwari परिसरातील नागरिकांना सांडपाणी रस्त्यावर वाहत आहे एका महिन्यापासून.,Marathi,Drainage & Sewerage,sewage_overflow,Jogeshwari,एका महिन्यापासून,High,Yes
+CB10527,The road has inadequate lighting in Thane for two weeks.,English,Street Lighting,dark_stretch,Thane,for two weeks,High,Yes
+CB10528,Dadar येथे वीजेचा खांब खराब झाला आहे दोन आठवड्यांपासून.,Marathi,Electricity,damaged_electric_pole,Dadar,दोन आठवड्यांपासून,Low,No
+CB10529,We want to report that The road has inadequate lighting in Kurla has continued for a week.,English,Street Lighting,dark_stretch,Kurla,for a week,Medium,No
+CB10530,कृपया दखल घ्यावी. Navi Mumbai येथे स्ट्रीटलाइट बंद आहे ३ दिवसांपासून.,Marathi,Street Lighting,broken_streetlight,Navi Mumbai,३ दिवसांपासून,High,Yes
+CB10531,Please take action because there is The footpath is damaged in Nagpur for a month.,English,Roads & Infrastructure,damaged_footpath,Nagpur,for a month,Medium,Yes
+CB10532,Mulund येथे वीजपुरवठा खंडित झाला आहे असून ही समस्या ३ दिवसांपासून आहे.,Marathi,Electricity,power_outage,Mulund,३ दिवसांपासून,Medium,No
+CB10533,Residents of Borivali are facing The streetlight is not working for two weeks.,English,Street Lighting,broken_streetlight,Borivali,for two weeks,Low,No
+CB10534,कृपया दखल घ्यावी. Andheri East येथे बस थांबा खराब झाला आहे एका महिन्यापासून.,Marathi,Public Transport,bus_stop_damage,Andheri East,एका महिन्यापासून,Medium,No
+CB10535,There is a public health or sanitation hazard in Santacruz for a month.,English,Public Health & Sanitation,public_health_hazard,Santacruz,for a month,High,Yes
+CB10536,कृपया दखल घ्यावी. Nagpur येथे बस थांबा खराब झाला आहे एका महिन्यापासून.,Marathi,Public Transport,bus_stop_damage,Nagpur,एका महिन्यापासून,High,No
+CB10537,Please take action because there is The streetlight is not working in Nagpur for 2 days.,English,Street Lighting,broken_streetlight,Nagpur,for 2 days,Low,No
+CB10538,Nagpur येथे मॅनहोल उघडे किंवा खराब आहे असून ही समस्या २ दिवसांपासून आहे.,Marathi,Drainage & Sewerage,open_manhole,Nagpur,२ दिवसांपासून,High,Yes
+CB10539,Please take action because there is Garbage is being dumped improperly in Jogeshwari for a month.,English,Waste & Sanitation,illegal_dumping,Jogeshwari,for a month,Medium,No
+CB10540,कृपया दखल घ्यावी. Kolhapur येथे सार्वजनिक वाहतूक सेवा रद्द झाली आहे ३ दिवसांपासून.,Marathi,Public Transport,service_cancellation,Kolhapur,३ दिवसांपासून,Low,No
+CB10541,There are large potholes on the road in Pune for 2 days.,English,Roads & Infrastructure,pothole,Pune,for 2 days,High,No
+CB10542,Andheri West परिसरातील नागरिकांना स्ट्रीटलाइटचा खांब खराब झाला आहे २ दिवसांपासून.,Marathi,Street Lighting,damaged_pole,Andheri West,२ दिवसांपासून,Low,No
+CB10543,Residents of Borivali are facing There is a public health or sanitation hazard for 3 days.,English,Public Health & Sanitation,public_health_hazard,Borivali,for 3 days,Low,No
+CB10544,Mulund येथे बस थांबा खराब झाला आहे एका महिन्यापासून.,Marathi,Public Transport,bus_stop_damage,Mulund,एका महिन्यापासून,Low,No
+CB10545,Residents of Dadar are facing The streetlight is not working for two weeks.,English,Street Lighting,broken_streetlight,Dadar,for two weeks,Medium,Yes
+CB10546,कृपया दखल घ्यावी. Thane येथे सांडपाण्याची गळती होत आहे एक आठवड्यापासून.,Marathi,Drainage & Sewerage,wastewater_leakage,Thane,एक आठवड्यापासून,Medium,No
+CB10547,Please take action because there is There are large potholes on the road in Nagpur for 2 days.,English,Roads & Infrastructure,pothole,Nagpur,for 2 days,Low,No
+CB10548,Andheri East परिसरातील नागरिकांना कचरा उचलला जात नाही एका महिन्यापासून.,Marathi,Waste & Sanitation,uncollected_garbage,Andheri East,एका महिन्यापासून,Low,No
+CB10549,Please take action because there is The streetlight is not working in Bandra West for a week.,English,Street Lighting,broken_streetlight,Bandra West,for a week,Low,Yes
+CB10550,Malad येथे फुटपाथ खराब झाला आहे असून ही समस्या एक आठवड्यापासून आहे.,Marathi,Roads & Infrastructure,damaged_footpath,Malad,एक आठवड्यापासून,Medium,Yes
+CB10551,Residents of Powai are facing The public transport facility is unclean for 2 days.,English,Public Transport,transport_cleanliness,Powai,for 2 days,Medium,Yes
+CB10552,Borivali येथे कचरापेटी भरून वाहत आहे २ दिवसांपासून.,Marathi,Waste & Sanitation,overflowing_bin,Borivali,२ दिवसांपासून,High,Yes
+CB10553,Please take action because there is There is a water leakage in Andheri West for a week.,English,Water Supply,water_leakage,Andheri West,for a week,High,Yes
+CB10554,Andheri East येथे रस्त्यावर मोठे खड्डे आहेत कालपासून.,Marathi,Roads & Infrastructure,pothole,Andheri East,कालपासून,Medium,No
+CB10555,We want to report that Water is stagnant in the area in Nagpur has continued for 3 days.,English,Public Health & Sanitation,stagnant_water,Nagpur,for 3 days,High,Yes
+CB10556,Malad येथे कचरा उचलला जात नाही एक आठवड्यापासून.,Marathi,Waste & Sanitation,uncollected_garbage,Malad,एक आठवड्यापासून,High,No
+CB10557,Wastewater is leaking in Bandra West for two weeks.,English,Drainage & Sewerage,wastewater_leakage,Bandra West,for two weeks,Medium,Yes
+CB10558,Goregaon परिसरातील नागरिकांना पाणी घाणेरडे किंवा रंग बदललेले येत आहे दोन आठवड्यांपासून.,Marathi,Water Supply,discoloured_water,Goregaon,दोन आठवड्यांपासून,Medium,Yes
+CB10559,The public transport facility is unclean in Malad for 2 days.,English,Public Transport,transport_cleanliness,Malad,for 2 days,High,No
+CB10560,Mulund येथे परिसरात स्वच्छतेची समस्या आहे २ दिवसांपासून.,Marathi,Waste & Sanitation,public_sanitation,Mulund,२ दिवसांपासून,Low,Yes
+CB10561,The supplied water is dirty or discoloured in Borivali since yesterday.,English,Water Supply,discoloured_water,Borivali,since yesterday,High,Yes
+CB10562,Jogeshwari येथे रस्त्यावर पुरेसा प्रकाश नाही असून ही समस्या एक आठवड्यापासून आहे.,Marathi,Street Lighting,dark_stretch,Jogeshwari,एक आठवड्यापासून,Medium,No
+CB10563,Please take action because there is There are large potholes on the road in Dadar since yesterday.,English,Roads & Infrastructure,pothole,Dadar,since yesterday,Medium,No
+CB10564,Bandra West येथे परिसरात पाणी साचले आहे कालपासून.,Marathi,Public Health & Sanitation,stagnant_water,Bandra West,कालपासून,Low,Yes
+CB10565,Please take action because there is The public transport service was cancelled in Navi Mumbai for two weeks.,English,Public Transport,service_cancellation,Navi Mumbai,for two weeks,High,Yes
+CB10566,कृपया दखल घ्यावी. Dadar येथे सार्वजनिक वाहतूक सेवा रद्द झाली आहे कालपासून.,Marathi,Public Transport,service_cancellation,Dadar,कालपासून,Medium,No
+CB10567,Residents of Pune are facing The streetlight pole is damaged for a week.,English,Street Lighting,damaged_pole,Pune,for a week,Low,Yes
+CB10568,कृपया दखल घ्यावी. Bandra West येथे रस्ता खराब झाला आहे एक आठवड्यापासून.,Marathi,Roads & Infrastructure,damaged_road,Bandra West,एक आठवड्यापासून,High,No
+CB10569,Wastewater is leaking in Powai for two weeks.,English,Drainage & Sewerage,wastewater_leakage,Powai,for two weeks,High,Yes
+CB10570,कृपया दखल घ्यावी. Bandra West येथे वीजपुरवठ्याची समस्या आहे एक आठवड्यापासून.,Marathi,Electricity,electricity_supply_issue,Bandra West,एक आठवड्यापासून,Low,Yes
+CB10571,Residents of Mulund are facing The road has inadequate lighting since yesterday.,English,Street Lighting,dark_stretch,Mulund,since yesterday,High,No
+CB10572,Jogeshwari येथे पाणी घाणेरडे किंवा रंग बदललेले येत आहे असून ही समस्या एक आठवड्यापासून आहे.,Marathi,Water Supply,discoloured_water,Jogeshwari,एक आठवड्यापासून,High,No
+CB10573,Residents of Andheri East are facing The drain is blocked for a month.,English,Drainage & Sewerage,blocked_drain,Andheri East,for a month,High,No
+CB10574,Bandra East येथे वीजेचा खांब खराब झाला आहे असून ही समस्या एक आठवड्यापासून आहे.,Marathi,Electricity,damaged_electric_pole,Bandra East,एक आठवड्यापासून,Low,No
+CB10575,We want to report that The streetlight is not working in Nashik has continued for 2 days.,English,Street Lighting,broken_streetlight,Nashik,for 2 days,Medium,Yes
+CB10576,कृपया दखल घ्यावी. Navi Mumbai येथे पाणी घाणेरडे किंवा रंग बदललेले येत आहे दोन आठवड्यांपासून.,Marathi,Water Supply,discoloured_water,Navi Mumbai,दोन आठवड्यांपासून,Low,No
+CB10577,An electrical wire is exposed in Bandra West for a week.,English,Electricity,exposed_wire,Bandra West,for a week,Low,No
+CB10578,Nagpur येथे परिसरात पाणी साचले आहे दोन आठवड्यांपासून.,Marathi,Public Health & Sanitation,stagnant_water,Nagpur,दोन आठवड्यांपासून,Low,No
+CB10579,The area has a sanitation problem in Mulund for 3 days.,English,Waste & Sanitation,public_sanitation,Mulund,for 3 days,Low,No
+CB10580,कृपया दखल घ्यावी. Powai येथे सार्वजनिक वाहतूक सुविधा अस्वच्छ आहे एका महिन्यापासून.,Marathi,Public Transport,transport_cleanliness,Powai,एका महिन्यापासून,Low,Yes
+CB10581,Please take action because there is Garbage has not been collected in Mulund for 3 days.,English,Waste & Sanitation,uncollected_garbage,Mulund,for 3 days,High,No
+CB10582,Dadar परिसरातील नागरिकांना पाणीपुरवठा होत नाही एक आठवड्यापासून.,Marathi,Water Supply,no_water,Dadar,एक आठवड्यापासून,High,No
+CB10583,Residents of Aurangabad are facing There is a water leakage for 2 days.,English,Water Supply,water_leakage,Aurangabad,for 2 days,Low,No
+CB10584,Goregaon येथे परिसरात स्वच्छतेची समस्या आहे असून ही समस्या एका महिन्यापासून आहे.,Marathi,Waste & Sanitation,public_sanitation,Goregaon,एका महिन्यापासून,Low,No
+CB10585,Residents of Navi Mumbai are facing There are large potholes on the road for a week.,English,Roads & Infrastructure,pothole,Navi Mumbai,for a week,Medium,Yes
+CB10586,Kolhapur परिसरातील नागरिकांना रस्त्यावरील फलक खराब झाला आहे एक आठवड्यापासून.,Marathi,Roads & Infrastructure,broken_road_sign,Kolhapur,एक आठवड्यापासून,High,Yes
+CB10587,Please take action because there is The drain is blocked in Santacruz for a month.,English,Drainage & Sewerage,blocked_drain,Santacruz,for a month,High,No
+CB10588,Kurla येथे डासांची पैदास होत आहे असून ही समस्या एक आठवड्यापासून आहे.,Marathi,Public Health & Sanitation,mosquito_breeding,Kurla,एक आठवड्यापासून,Medium,No
+CB10589,Please take action because there is Sewage is overflowing onto the road in Thane for two weeks.,English,Drainage & Sewerage,sewage_overflow,Thane,for two weeks,High,No
+CB10590,Goregaon येथे कचरापेटी भरून वाहत आहे असून ही समस्या दोन आठवड्यांपासून आहे.,Marathi,Waste & Sanitation,overflowing_bin,Goregaon,दोन आठवड्यांपासून,High,No
+CB10591,Please take action because there is Sewage is overflowing onto the road in Nashik for two weeks.,English,Drainage & Sewerage,sewage_overflow,Nashik,for two weeks,High,Yes
+CB10592,कृपया दखल घ्यावी. Kolhapur येथे सार्वजनिक वाहतूक सुविधा अस्वच्छ आहे दोन आठवड्यांपासून.,Marathi,Public Transport,transport_cleanliness,Kolhapur,दोन आठवड्यांपासून,High,No
+CB10593,Water is stagnant in the area in Nashik since yesterday.,English,Public Health & Sanitation,stagnant_water,Nashik,since yesterday,Medium,Yes
+CB10594,Goregaon परिसरातील नागरिकांना रस्त्यावर मोठे खड्डे आहेत ३ दिवसांपासून.,Marathi,Roads & Infrastructure,pothole,Goregaon,३ दिवसांपासून,Medium,No
+CB10595,The drain is blocked in Malad for 2 days.,English,Drainage & Sewerage,blocked_drain,Malad,for 2 days,Medium,No
+CB10596,Nagpur परिसरातील नागरिकांना पाण्याचा दाब खूप कमी आहे एक आठवड्यापासून.,Marathi,Water Supply,low_pressure,Nagpur,एक आठवड्यापासून,High,No
+CB10597,Please take action because there is A road sign is damaged or broken in Santacruz for a week.,English,Roads & Infrastructure,broken_road_sign,Santacruz,for a week,High,Yes
+CB10598,कृपया दखल घ्यावी. Goregaon येथे फुटपाथ खराब झाला आहे दोन आठवड्यांपासून.,Marathi,Roads & Infrastructure,damaged_footpath,Goregaon,दोन आठवड्यांपासून,Low,No
+CB10599,Residents of Malad are facing The garbage bin is overflowing for a week.,English,Waste & Sanitation,overflowing_bin,Malad,for a week,High,Yes
+CB10600,कृपया दखल घ्यावी. Nashik येथे सांडपाणी रस्त्यावर वाहत आहे कालपासून.,Marathi,Drainage & Sewerage,sewage_overflow,Nashik,कालपासून,Low,No
+CB10601,Residents of Kurla are facing The road has inadequate lighting for 2 days.,English,Street Lighting,dark_stretch,Kurla,for 2 days,High,No
+CB10602,Navi Mumbai परिसरातील नागरिकांना फुटपाथ खराब झाला आहे एका महिन्यापासून.,Marathi,Roads & Infrastructure,damaged_footpath,Navi Mumbai,एका महिन्यापासून,Low,Yes
+CB10603,Please take action because there is The bus service is frequently delayed in Aurangabad for a month.,English,Public Transport,bus_delay,Aurangabad,for a month,Medium,No
+CB10604,Nashik परिसरातील नागरिकांना पाण्याची गळती होत आहे २ दिवसांपासून.,Marathi,Water Supply,water_leakage,Nashik,२ दिवसांपासून,High,Yes
+CB10605,We want to report that Wastewater is leaking in Nagpur has continued for two weeks.,English,Drainage & Sewerage,wastewater_leakage,Nagpur,for two weeks,Low,No
+CB10606,Mulund येथे कचरापेटी भरून वाहत आहे असून ही समस्या ३ दिवसांपासून आहे.,Marathi,Waste & Sanitation,overflowing_bin,Mulund,३ दिवसांपासून,Medium,Yes
+CB10607,Please take action because there is There is a power outage in Bandra West for a month.,English,Electricity,power_outage,Bandra West,for a month,Medium,Yes
+CB10608,Mulund येथे कचरा उचलला जात नाही एक आठवड्यापासून.,Marathi,Waste & Sanitation,uncollected_garbage,Mulund,एक आठवड्यापासून,Medium,No
+CB10609,We want to report that The streetlight is not working in Nashik has continued for 3 days.,English,Street Lighting,broken_streetlight,Nashik,for 3 days,Medium,Yes
+CB10610,Goregaon येथे रस्त्यावर पुरेसा प्रकाश नाही ३ दिवसांपासून.,Marathi,Street Lighting,dark_stretch,Goregaon,३ दिवसांपासून,Low,Yes
+CB10611,Residents of Goregaon are facing There are large potholes on the road for a month.,English,Roads & Infrastructure,pothole,Goregaon,for a month,High,No
+CB10612,कृपया दखल घ्यावी. Nagpur येथे पाण्याचा दाब खूप कमी आहे एका महिन्यापासून.,Marathi,Water Supply,low_pressure,Nagpur,एका महिन्यापासून,High,Yes
+CB10613,Please take action because there is The drain is blocked in Navi Mumbai for a month.,English,Drainage & Sewerage,blocked_drain,Navi Mumbai,for a month,Low,Yes
+CB10614,Dadar येथे पाणीपुरवठा होत नाही ३ दिवसांपासून.,Marathi,Water Supply,no_water,Dadar,३ दिवसांपासून,High,Yes
+CB10615,We want to report that The streetlight pole is damaged in Santacruz has continued for a week.,English,Street Lighting,damaged_pole,Santacruz,for a week,Medium,No
+CB10616,Bandra West येथे रस्त्यावरील फलक खराब झाला आहे दोन आठवड्यांपासून.,Marathi,Roads & Infrastructure,broken_road_sign,Bandra West,दोन आठवड्यांपासून,High,Yes
+CB10617,There are large potholes on the road in Powai for two weeks.,English,Roads & Infrastructure,pothole,Powai,for two weeks,Medium,No
+CB10618,कृपया दखल घ्यावी. Navi Mumbai येथे पाण्याची गळती होत आहे एक आठवड्यापासून.,Marathi,Water Supply,water_leakage,Navi Mumbai,एक आठवड्यापासून,High,Yes
+CB10619,Residents of Nagpur are facing An electricity pole is damaged for 2 days.,English,Electricity,damaged_electric_pole,Nagpur,for 2 days,High,No
+CB10620,Borivali येथे रस्त्यावर पुरेसा प्रकाश नाही असून ही समस्या ३ दिवसांपासून आहे.,Marathi,Street Lighting,dark_stretch,Borivali,३ दिवसांपासून,Low,Yes
+CB10621,We want to report that There is no water supply in Andheri East has continued for two weeks.,English,Water Supply,no_water,Andheri East,for two weeks,High,Yes
+CB10622,कृपया दखल घ्यावी. Powai येथे स्ट्रीटलाइट बंद आहे २ दिवसांपासून.,Marathi,Street Lighting,broken_streetlight,Powai,२ दिवसांपासून,High,Yes
+CB10623,Please take action because there is Sewage is overflowing onto the road in Jogeshwari for two weeks.,English,Drainage & Sewerage,sewage_overflow,Jogeshwari,for two weeks,Low,Yes
+CB10624,Nagpur येथे नाला तुंबला आहे एक आठवड्यापासून.,Marathi,Drainage & Sewerage,blocked_drain,Nagpur,एक आठवड्यापासून,Medium,Yes
+CB10625,We want to report that The streetlight is not working in Goregaon has continued for a month.,English,Street Lighting,broken_streetlight,Goregaon,for a month,Medium,No
+CB10626,Bandra West येथे सांडपाणी रस्त्यावर वाहत आहे ३ दिवसांपासून.,Marathi,Drainage & Sewerage,sewage_overflow,Bandra West,३ दिवसांपासून,Low,No
+CB10627,Please take action because there is There is an electricity supply problem in Mulund for two weeks.,English,Electricity,electricity_supply_issue,Mulund,for two weeks,High,Yes
+CB10628,Thane येथे सार्वजनिक वाहतूक सेवा रद्द झाली आहे २ दिवसांपासून.,Marathi,Public Transport,service_cancellation,Thane,२ दिवसांपासून,Medium,Yes
+CB10629,Residents of Kurla are facing The area has a sanitation problem for 3 days.,English,Waste & Sanitation,public_sanitation,Kurla,for 3 days,High,No
+CB10630,Navi Mumbai येथे वीजपुरवठ्याची समस्या आहे असून ही समस्या ३ दिवसांपासून आहे.,Marathi,Electricity,electricity_supply_issue,Navi Mumbai,३ दिवसांपासून,Medium,Yes
+CB10631,Residents of Kurla are facing The drain is blocked for 2 days.,English,Drainage & Sewerage,blocked_drain,Kurla,for 2 days,Medium,Yes
+CB10632,Nashik येथे पाणीपुरवठा होत नाही एका महिन्यापासून.,Marathi,Water Supply,no_water,Nashik,एका महिन्यापासून,High,No
+CB10633,We want to report that Garbage has not been collected in Nagpur has continued for 3 days.,English,Waste & Sanitation,uncollected_garbage,Nagpur,for 3 days,High,Yes
+CB10634,Jogeshwari येथे सार्वजनिक वाहतूक सुविधा अस्वच्छ आहे असून ही समस्या दोन आठवड्यांपासून आहे.,Marathi,Public Transport,transport_cleanliness,Jogeshwari,दोन आठवड्यांपासून,Low,No
+CB10635,The supplied water is dirty or discoloured in Powai for two weeks.,English,Water Supply,discoloured_water,Powai,for two weeks,High,Yes
+CB10636,Navi Mumbai परिसरातील नागरिकांना सांडपाणी रस्त्यावर वाहत आहे २ दिवसांपासून.,Marathi,Drainage & Sewerage,sewage_overflow,Navi Mumbai,२ दिवसांपासून,High,Yes
+CB10637,We want to report that An electrical wire is exposed in Andheri West has continued for 2 days.,English,Electricity,exposed_wire,Andheri West,for 2 days,Low,Yes
+CB10638,Jogeshwari परिसरातील नागरिकांना स्ट्रीटलाइटचा खांब खराब झाला आहे कालपासून.,Marathi,Street Lighting,damaged_pole,Jogeshwari,कालपासून,High,No
+CB10639,There is a public health or sanitation hazard in Navi Mumbai since yesterday.,English,Public Health & Sanitation,public_health_hazard,Navi Mumbai,since yesterday,High,No
+CB10640,Kurla परिसरातील नागरिकांना पाण्याची गळती होत आहे दोन आठवड्यांपासून.,Marathi,Water Supply,water_leakage,Kurla,दोन आठवड्यांपासून,Medium,No
+CB10641,We want to report that The bus service is frequently delayed in Nashik has continued for 3 days.,English,Public Transport,bus_delay,Nashik,for 3 days,Low,No
+CB10642,Pune येथे सार्वजनिक वाहतूक सेवा रद्द झाली आहे एक आठवड्यापासून.,Marathi,Public Transport,service_cancellation,Pune,एक आठवड्यापासून,High,Yes
+CB10643,Please take action because there is An electricity pole is damaged in Jogeshwari since yesterday.,English,Electricity,damaged_electric_pole,Jogeshwari,since yesterday,Low,Yes
+CB10644,Powai येथे सांडपाणी रस्त्यावर वाहत आहे दोन आठवड्यांपासून.,Marathi,Drainage & Sewerage,sewage_overflow,Powai,दोन आठवड्यांपासून,High,Yes
+CB10645,We want to report that A public facility is unhygienic in Bandra West has continued for a week.,English,Public Health & Sanitation,unclean_public_facility,Bandra West,for a week,Medium,Yes
+CB10646,Andheri East येथे सांडपाण्याची गळती होत आहे २ दिवसांपासून.,Marathi,Drainage & Sewerage,wastewater_leakage,Andheri East,२ दिवसांपासून,Low,Yes
+CB10647,The drain is blocked in Kolhapur for 2 days.,English,Drainage & Sewerage,blocked_drain,Kolhapur,for 2 days,Low,No
+CB10648,Aurangabad येथे सांडपाण्याची गळती होत आहे दोन आठवड्यांपासून.,Marathi,Drainage & Sewerage,wastewater_leakage,Aurangabad,दोन आठवड्यांपासून,High,No
+CB10649,We want to report that Water pressure is very low in Navi Mumbai has continued for two weeks.,English,Water Supply,low_pressure,Navi Mumbai,for two weeks,Medium,Yes
+CB10650,Aurangabad परिसरातील नागरिकांना परिसरात स्वच्छतेची समस्या आहे २ दिवसांपासून.,Marathi,Waste & Sanitation,public_sanitation,Aurangabad,२ दिवसांपासून,High,No
+CB10651,The manhole is open or damaged in Navi Mumbai for two weeks.,English,Drainage & Sewerage,open_manhole,Navi Mumbai,for two weeks,Low,No
+CB10652,Bandra West परिसरातील नागरिकांना डासांची पैदास होत आहे कालपासून.,Marathi,Public Health & Sanitation,mosquito_breeding,Bandra West,कालपासून,High,No
+CB10653,The drain is blocked in Dadar for a week.,English,Drainage & Sewerage,blocked_drain,Dadar,for a week,High,Yes
+CB10654,Borivali येथे पाणी घाणेरडे किंवा रंग बदललेले येत आहे दोन आठवड्यांपासून.,Marathi,Water Supply,discoloured_water,Borivali,दोन आठवड्यांपासून,High,No
+CB10655,We want to report that A public facility is unhygienic in Andheri West has continued for a month.,English,Public Health & Sanitation,unclean_public_facility,Andheri West,for a month,Low,No
+CB10656,Kolhapur येथे सार्वजनिक सुविधा अस्वच्छ आहे एका महिन्यापासून.,Marathi,Public Health & Sanitation,unclean_public_facility,Kolhapur,एका महिन्यापासून,Medium,Yes
+CB10657,Please take action because there is The streetlight pole is damaged in Jogeshwari since yesterday.,English,Street Lighting,damaged_pole,Jogeshwari,since yesterday,High,No
+CB10658,Andheri East येथे स्ट्रीटलाइट बंद आहे एका महिन्यापासून.,Marathi,Street Lighting,broken_streetlight,Andheri East,एका महिन्यापासून,High,Yes
+CB10659,Please take action because there is A road sign is damaged or broken in Goregaon for a month.,English,Roads & Infrastructure,broken_road_sign,Goregaon,for a month,Medium,No
+CB10660,Thane येथे पाण्याचा दाब खूप कमी आहे असून ही समस्या एका महिन्यापासून आहे.,Marathi,Water Supply,low_pressure,Thane,एका महिन्यापासून,Medium,No
+CB10661,We want to report that The public transport service was cancelled in Santacruz has continued for 2 days.,English,Public Transport,service_cancellation,Santacruz,for 2 days,High,No
+CB10662,कृपया दखल घ्यावी. Nagpur येथे मॅनहोल उघडे किंवा खराब आहे दोन आठवड्यांपासून.,Marathi,Drainage & Sewerage,open_manhole,Nagpur,दोन आठवड्यांपासून,Medium,No
+CB10663,The public transport facility is unclean in Borivali for a month.,English,Public Transport,transport_cleanliness,Borivali,for a month,High,Yes
+CB10664,कृपया दखल घ्यावी. Bandra West येथे वीजेचा खांब खराब झाला आहे २ दिवसांपासून.,Marathi,Electricity,damaged_electric_pole,Bandra West,२ दिवसांपासून,Medium,Yes
+CB10665,Residents of Andheri East are facing Wastewater is leaking since yesterday.,English,Drainage & Sewerage,wastewater_leakage,Andheri East,since yesterday,Medium,No
+CB10666,Kurla येथे पाणीपुरवठा होत नाही असून ही समस्या २ दिवसांपासून आहे.,Marathi,Water Supply,no_water,Kurla,२ दिवसांपासून,Low,Yes
+CB10667,Please take action because there is There is a public health or sanitation hazard in Aurangabad for a month.,English,Public Health & Sanitation,public_health_hazard,Aurangabad,for a month,High,Yes
+CB10668,Navi Mumbai परिसरातील नागरिकांना सांडपाण्याची गळती होत आहे कालपासून.,Marathi,Drainage & Sewerage,wastewater_leakage,Navi Mumbai,कालपासून,High,No
+CB10669,Residents of Aurangabad are facing Garbage has not been collected for two weeks.,English,Waste & Sanitation,uncollected_garbage,Aurangabad,for two weeks,High,Yes
+CB10670,Jogeshwari येथे फुटपाथ खराब झाला आहे एका महिन्यापासून.,Marathi,Roads & Infrastructure,damaged_footpath,Jogeshwari,एका महिन्यापासून,Low,Yes
+CB10671,We want to report that The streetlight pole is damaged in Powai has continued for a month.,English,Street Lighting,damaged_pole,Powai,for a month,Medium,Yes
+CB10672,Bandra East येथे रस्त्यावर मोठे खड्डे आहेत असून ही समस्या दोन आठवड्यांपासून आहे.,Marathi,Roads & Infrastructure,pothole,Bandra East,दोन आठवड्यांपासून,High,No
+CB10673,Residents of Jogeshwari are facing The public transport service was cancelled for two weeks.,English,Public Transport,service_cancellation,Jogeshwari,for two weeks,Medium,No
+CB10674,Dadar येथे फुटपाथ खराब झाला आहे एक आठवड्यापासून.,Marathi,Roads & Infrastructure,damaged_footpath,Dadar,एक आठवड्यापासून,High,Yes
+CB10675,Please take action because there is The streetlight pole is damaged in Bandra West for two weeks.,English,Street Lighting,damaged_pole,Bandra West,for two weeks,High,No
+CB10676,Kolhapur परिसरातील नागरिकांना वीजपुरवठ्याची समस्या आहे एक आठवड्यापासून.,Marathi,Electricity,electricity_supply_issue,Kolhapur,एक आठवड्यापासून,Medium,No
+CB10677,Please take action because there is There is a power outage in Pune since yesterday.,English,Electricity,power_outage,Pune,since yesterday,Low,No
+CB10678,Mulund येथे कचरापेटी भरून वाहत आहे असून ही समस्या एक आठवड्यापासून आहे.,Marathi,Waste & Sanitation,overflowing_bin,Mulund,एक आठवड्यापासून,High,Yes
+CB10679,We want to report that The streetlight is not working in Malad has continued since yesterday.,English,Street Lighting,broken_streetlight,Malad,since yesterday,High,No
+CB10680,Pune येथे पाण्याचा दाब खूप कमी आहे असून ही समस्या ३ दिवसांपासून आहे.,Marathi,Water Supply,low_pressure,Pune,३ दिवसांपासून,Low,No
+CB10681,Residents of Pune are facing Sewage is overflowing onto the road for a month.,English,Drainage & Sewerage,sewage_overflow,Pune,for a month,Low,Yes
+CB10682,Jogeshwari परिसरातील नागरिकांना स्ट्रीटलाइट बंद आहे २ दिवसांपासून.,Marathi,Street Lighting,broken_streetlight,Jogeshwari,२ दिवसांपासून,High,No
+CB10683,We want to report that The drain is blocked in Bandra West has continued since yesterday.,English,Drainage & Sewerage,blocked_drain,Bandra West,since yesterday,High,Yes
+CB10684,Powai येथे रस्त्यावरील फलक खराब झाला आहे असून ही समस्या दोन आठवड्यांपासून आहे.,Marathi,Roads & Infrastructure,broken_road_sign,Powai,दोन आठवड्यांपासून,Medium,No
+CB10685,We want to report that An electricity pole is damaged in Nashik has continued for 3 days.,English,Electricity,damaged_electric_pole,Nashik,for 3 days,Low,Yes
+CB10686,Pune येथे रस्त्यावरील फलक खराब झाला आहे दोन आठवड्यांपासून.,Marathi,Roads & Infrastructure,broken_road_sign,Pune,दोन आठवड्यांपासून,High,No
+CB10687,We want to report that There is a mosquito breeding problem in Navi Mumbai has continued since yesterday.,English,Public Health & Sanitation,mosquito_breeding,Navi Mumbai,since yesterday,Medium,Yes
+CB10688,Santacruz येथे रस्ता खराब झाला आहे दोन आठवड्यांपासून.,Marathi,Roads & Infrastructure,damaged_road,Santacruz,दोन आठवड्यांपासून,Medium,No
+CB10689,Residents of Nagpur are facing The streetlight is not working for 3 days.,English,Street Lighting,broken_streetlight,Nagpur,for 3 days,Medium,No
+CB10690,कृपया दखल घ्यावी. Dadar येथे सार्वजनिक वाहतूक सेवा रद्द झाली आहे एक आठवड्यापासून.,Marathi,Public Transport,service_cancellation,Dadar,एक आठवड्यापासून,Low,No
+CB10691,We want to report that The public transport service was cancelled in Santacruz has continued for 3 days.,English,Public Transport,service_cancellation,Santacruz,for 3 days,Low,Yes
+CB10692,कृपया दखल घ्यावी. Kurla येथे कचरा उचलला जात नाही २ दिवसांपासून.,Marathi,Waste & Sanitation,uncollected_garbage,Kurla,२ दिवसांपासून,Medium,Yes
+CB10693,Residents of Pune are facing Sewage is overflowing onto the road since yesterday.,English,Drainage & Sewerage,sewage_overflow,Pune,since yesterday,Medium,No
+CB10694,Pune येथे मॅनहोल उघडे किंवा खराब आहे असून ही समस्या ३ दिवसांपासून आहे.,Marathi,Drainage & Sewerage,open_manhole,Pune,३ दिवसांपासून,High,Yes
+CB10695,Residents of Dadar are facing Water is stagnant in the area since yesterday.,English,Public Health & Sanitation,stagnant_water,Dadar,since yesterday,Medium,No
+CB10696,Mulund येथे पाणी घाणेरडे किंवा रंग बदललेले येत आहे असून ही समस्या ३ दिवसांपासून आहे.,Marathi,Water Supply,discoloured_water,Mulund,३ दिवसांपासून,Medium,No
+CB10697,Please take action because there is The bus service is frequently delayed in Thane since yesterday.,English,Public Transport,bus_delay,Thane,since yesterday,High,Yes
+CB10698,कृपया दखल घ्यावी. Powai येथे मॅनहोल उघडे किंवा खराब आहे ३ दिवसांपासून.,Marathi,Drainage & Sewerage,open_manhole,Powai,३ दिवसांपासून,High,No
+CB10699,We want to report that The supplied water is dirty or discoloured in Aurangabad has continued for 3 days.,English,Water Supply,discoloured_water,Aurangabad,for 3 days,High,Yes
+CB10700,कृपया दखल घ्यावी. Thane येथे मॅनहोल उघडे किंवा खराब आहे एका महिन्यापासून.,Marathi,Drainage & Sewerage,open_manhole,Thane,एका महिन्यापासून,Low,Yes

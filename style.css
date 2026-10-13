@@ -1,0 +1,688 @@
+/* ============================================================
+   CIVICBRIDGE — GLOBAL STYLE
+   ============================================================ */
+
+:root {
+    --cb-navy: #12355B;
+    --cb-navy-dark: #0D2946;
+    --cb-orange: #E07A1F;
+    --cb-orange-soft: #FFF3E8;
+    --cb-bg: #F6F8FB;
+    --cb-white: #FFFFFF;
+    --cb-text: #172033;
+    --cb-muted: #617084;
+    --cb-border: #D7DEE8;
+    --cb-success: #2E7D5B;
+}
+
+
+/* ============================================================
+   PAGE
+   ============================================================ */
+
+.stApp {
+    background: var(--cb-bg);
+    color: var(--cb-text);
+}
+
+[data-testid="stHeader"] {
+    background: var(--cb-white);
+    border-bottom: 1px solid var(--cb-border);
+}
+
+.block-container {
+    padding-top: 5rem !important;
+    padding-bottom: 5rem !important;
+}
+
+
+/* ============================================================
+   BRAND
+   ============================================================ */
+
+.cb-brand {
+    font-size: 32px;
+    line-height: 1.05;
+    font-weight: 850;
+    color: var(--cb-navy);
+    letter-spacing: -0.7px;
+    margin: 0;
+}
+
+.cb-tagline {
+    color: var(--cb-muted);
+    font-size: 14px;
+    margin-top: 6px;
+    margin-bottom: 20px;
+}
+
+
+/* ============================================================
+   HEADINGS
+   ============================================================ */
+
+.section-header {
+    font-size: 28px;
+    font-weight: 800;
+    color: var(--cb-navy);
+    margin-top: 28px;
+    margin-bottom: 18px;
+    padding-bottom: 9px;
+    border-bottom: 2px solid var(--cb-orange);
+    line-height: 1.2;
+}
+
+.sub-header {
+    font-size: 20px;
+    font-weight: 750;
+    color: var(--cb-navy);
+    margin-top: 22px;
+    margin-bottom: 12px;
+}
+
+.field-label {
+    font-size: 14px;
+    font-weight: 750;
+    color: #526174 !important;
+    margin-bottom: 5px;
+}
+
+
+/* ============================================================
+   AUTH / LANDING PAGE
+   ============================================================ */
+
+.cb-auth-wrap {
+    margin-top: 35px;
+}
+
+.cb-auth-hero {
+    padding: 28px 18px 20px 0;
+}
+
+.cb-auth-title {
+    font-size: 43px;
+    line-height: 1.05;
+    font-weight: 850;
+    color: var(--cb-navy);
+    letter-spacing: -1.1px;
+    margin: 0 0 10px 0;
+}
+
+.cb-auth-lead {
+    color: #526174;
+    font-size: 17px;
+    line-height: 1.65;
+    max-width: 590px;
+    margin-bottom: 24px;
+}
+
+.cb-auth-accent {
+    width: 62px;
+    height: 4px;
+    background: var(--cb-orange);
+    border-radius: 10px;
+    margin: 0 0 24px 0;
+}
+
+.cb-feature {
+    background: var(--cb-white);
+    border: 1px solid var(--cb-border);
+    border-radius: 10px;
+    padding: 18px;
+    min-height: 118px;
+    box-shadow: 0 2px 8px rgba(18, 53, 91, 0.04);
+}
+
+.cb-feature-title {
+    color: var(--cb-navy);
+    font-size: 16px;
+    font-weight: 800;
+    margin-bottom: 6px;
+}
+
+.cb-feature-text {
+    color: var(--cb-muted);
+    font-size: 13px;
+    line-height: 1.5;
+}
+
+.cb-auth-card-title {
+    color: var(--cb-navy);
+    font-size: 25px;
+    font-weight: 800;
+    margin-bottom: 4px;
+}
+
+.cb-auth-card-subtitle {
+    color: var(--cb-muted);
+    font-size: 13px;
+    margin-bottom: 17px;
+}
+
+
+/* ============================================================
+   STREAMLIT FORM LABELS
+   ============================================================ */
+
+/* This fixes the washed-out labels visible in the screenshot. */
+
+[data-testid="stWidgetLabel"] p,
+[data-testid="stWidgetLabel"] label,
+[data-testid="stWidgetLabel"] {
+    color: #526174 !important;
+    font-weight: 650 !important;
+}
+
+[data-testid="stTextInput"] label,
+[data-testid="stTextArea"] label {
+    color: #526174 !important;
+}
+
+
+/* ============================================================
+   INPUTS
+   ============================================================ */
+
+div[data-baseweb="input"],
+div[data-baseweb="textarea"] {
+    background: var(--cb-white);
+    border-radius: 7px;
+}
+
+div[data-testid="stTextInput"] input,
+div[data-testid="stTextArea"] textarea {
+    background: var(--cb-white) !important;
+    color: var(--cb-text) !important;
+    border: 1px solid #C7D0DC;
+    border-radius: 7px;
+}
+
+div[data-testid="stTextInput"] input::placeholder,
+div[data-testid="stTextArea"] textarea::placeholder {
+    color: #9AA6B5 !important;
+    opacity: 1 !important;
+}
+
+div[data-testid="stTextInput"] input:focus,
+div[data-testid="stTextArea"] textarea:focus {
+    border-color: var(--cb-navy) !important;
+    box-shadow: 0 0 0 1px var(--cb-navy) !important;
+}
+
+
+/* ============================================================
+   PASSWORD VISIBILITY BUTTON
+   ============================================================ */
+
+button[data-testid="stTextInputRootElement"] {
+    background: var(--cb-white);
+}
+
+
+/* ============================================================
+   BUTTONS
+   ============================================================ */
+
+.stButton > button {
+    background: var(--cb-navy);
+    color: var(--cb-white);
+    border: 1px solid var(--cb-navy);
+    border-radius: 7px;
+    font-weight: 700;
+    min-height: 42px;
+    transition: all 0.15s ease;
+}
+
+.stButton > button:hover {
+    background: var(--cb-navy-dark);
+    border-color: var(--cb-navy-dark);
+    color: var(--cb-white);
+}
+
+.stButton > button:focus {
+    box-shadow: 0 0 0 2px rgba(224, 122, 31, 0.25);
+}
+
+
+/* ============================================================
+   AUTH TABS
+   ============================================================ */
+
+div[data-baseweb="tab-list"] {
+    gap: 2px;
+    border-bottom: 1px solid var(--cb-border);
+    margin-bottom: 20px;
+}
+
+button[data-baseweb="tab"] {
+    color: #687588 !important;
+    font-weight: 700 !important;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+button[data-baseweb="tab"][aria-selected="true"] {
+    color: var(--cb-navy) !important;
+}
+
+
+/* ============================================================
+   NAVIGATION
+   ============================================================ */
+
+div[role="radiogroup"] {
+    gap: 7px;
+    margin-bottom: 24px;
+}
+
+div[role="radiogroup"] label {
+    border: 1px solid var(--cb-border);
+    border-radius: 7px;
+    padding: 7px 16px;
+    background: var(--cb-white);
+    color: #526174;
+}
+
+div[role="radiogroup"] label:hover {
+    border-color: var(--cb-navy);
+    color: var(--cb-navy);
+}
+
+
+/* ============================================================
+   CONTENT CARDS
+   ============================================================ */
+
+.cb-card {
+    background: var(--cb-white);
+    border: 1px solid var(--cb-border);
+    border-radius: 10px;
+    padding: 22px;
+    min-height: 145px;
+    box-shadow: 0 2px 7px rgba(18, 53, 91, 0.05);
+}
+
+.cb-card-title {
+    color: var(--cb-navy);
+    font-size: 18px;
+    font-weight: 750;
+    margin-bottom: 7px;
+}
+
+.cb-card-text {
+    color: var(--cb-muted);
+    font-size: 14px;
+    line-height: 1.55;
+}
+
+.cb-topbar {
+    background: var(--cb-white);
+    border: 1px solid var(--cb-border);
+    border-left: 5px solid var(--cb-orange);
+    border-radius: 9px;
+    padding: 13px 17px;
+    margin-bottom: 18px;
+}
+
+.cb-user {
+    color: #526174;
+    font-size: 14px;
+}
+
+
+/* ============================================================
+   FOOTER
+   ============================================================ */
+
+.cb-footer {
+    border-top: 1px solid var(--cb-border);
+    margin-top: 45px;
+    padding-top: 16px;
+    color: #718096;
+    font-size: 12px;
+    text-align: center;
+}
+
+
+/* ============================================================
+   NAVIGATION — TEXT FIRST, NO RADIO DOTS
+   ============================================================ */
+
+div[role="radiogroup"] {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 8px !important;
+    margin-top: 8px !important;
+    margin-bottom: 34px !important;
+}
+
+div[role="radiogroup"] label {
+    position: relative !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    min-width: 126px !important;
+    min-height: 40px !important;
+    padding: 8px 17px !important;
+    background: #FFFFFF !important;
+    border: 1px solid #CBD5E1 !important;
+    border-radius: 7px !important;
+    color: #12355B !important;
+    cursor: pointer !important;
+    transition: all 0.15s ease !important;
+}
+
+div[role="radiogroup"] label > div:first-child {
+    display: none !important;
+}
+
+div[role="radiogroup"] label p,
+div[role="radiogroup"] label span {
+    color: #12355B !important;
+    font-weight: 650 !important;
+    font-size: 14px !important;
+}
+
+div[role="radiogroup"] label:hover {
+    border-color: #12355B !important;
+    background: #F4F7FA !important;
+}
+
+div[role="radiogroup"] label:has(input:checked) {
+    background: #12355B !important;
+    border-color: #12355B !important;
+    color: #FFFFFF !important;
+}
+
+div[role="radiogroup"] label:has(input:checked) p,
+div[role="radiogroup"] label:has(input:checked) span {
+    color: #FFFFFF !important;
+    font-weight: 750 !important;
+}
+
+
+/* ============================================================
+   AUTHENTICATION — CLEAN PANEL
+   ============================================================ */
+
+.cb-auth-card-title {
+    color: #12355B !important;
+    font-size: 29px !important;
+    line-height: 1.15 !important;
+    font-weight: 820 !important;
+    margin-top: 18px !important;
+    margin-bottom: 5px !important;
+}
+
+.cb-auth-card-subtitle {
+    color: #617084 !important;
+    font-size: 14px !important;
+    line-height: 1.5 !important;
+    margin-bottom: 13px !important;
+}
+
+.cb-auth-rule {
+    width: 48px;
+    height: 3px;
+    background: #E07A1F;
+    border-radius: 5px;
+    margin-bottom: 19px;
+}
+
+.cb-secure-note {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    color: #617084;
+    font-size: 12px;
+    margin-top: 12px;
+}
+
+.cb-secure-dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: #2E7D5B;
+    display: inline-block;
+}
+
+
+/* ============================================================
+   AUTH LABELS — FORCE LEGIBLE COLOUR
+   ============================================================ */
+
+[data-testid="stWidgetLabel"],
+[data-testid="stWidgetLabel"] p,
+[data-testid="stWidgetLabel"] label,
+[data-testid="stWidgetLabel"] span {
+    color: #40536A !important;
+    opacity: 1 !important;
+}
+
+[data-testid="stTextInput"] label,
+[data-testid="stTextInput"] label p,
+[data-testid="stTextInput"] label span {
+    color: #40536A !important;
+    opacity: 1 !important;
+    font-weight: 650 !important;
+}
+
+
+/* ============================================================
+   AUTH INPUT TEXT
+   ============================================================ */
+
+div[data-testid="stTextInput"] input {
+    color: #172033 !important;
+    background: #FFFFFF !important;
+}
+
+div[data-testid="stTextInput"] input::placeholder {
+    color: #8B98A8 !important;
+    opacity: 1 !important;
+}
+
+
+/* ============================================================
+   PAGE TOP SPACING
+   ============================================================ */
+
+.block-container {
+    padding-top: 5rem !important;
+    padding-bottom: 5rem !important;
+}
+
+
+/* ============================================================
+   HOME — LESS EMPTY SPACE
+   ============================================================ */
+
+.cb-card {
+    box-shadow: 0 2px 6px rgba(18, 53, 91, 0.045) !important;
+}
+
+
+/* ============================================================
+   BODY CONTRAST
+   ============================================================ */
+
+.stMarkdown,
+.stMarkdown p,
+.stCaption,
+[data-testid="stCaptionContainer"] {
+    color: #40536A;
+}
+
+/* ============================================================
+   CIVICBRIDGE — FULL-PAGE AUTHENTICATION DESIGN
+   ============================================================ */
+
+/* Keep the login page spacious */
+.cb-auth-spacer {
+    min-height: 570px;
+    max-width: 100%;
+}
+
+/* Translucent login panel */
+[data-testid="stVerticalBlockBorderWrapper"] {
+    background: rgba(255, 255, 255, 0.86) !important;
+    border: 1px solid rgba(255, 255, 255, 0.92) !important;
+    border-radius: 18px !important;
+    box-shadow: 0 12px 40px rgba(18, 53, 91, 0.10) !important;
+    backdrop-filter: blur(12px);
+    padding: 20px 24px !important;
+}
+
+/* CivicBridge brand */
+.cb-login-brand {
+    text-align: center;
+    padding: 8px 0 20px 0;
+}
+
+.cb-login-brand-name {
+    color: #12355B;
+    font-size: 39px;
+    line-height: 1.15;
+    font-weight: 850;
+    letter-spacing: -1.5px;
+}
+
+.cb-login-brand-name span {
+    color: #087E83;
+}
+
+.cb-login-tagline {
+    margin-top: 8px;
+    color: #61758A;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.cb-login-accent {
+    width: 58px;
+    height: 4px;
+    margin: 17px auto 0 auto;
+    border-radius: 5px;
+    background: #E07A1F;
+}
+
+/* Authentication heading */
+.cb-auth-card-title {
+    color: #12355B;
+    font-size: 29px;
+    font-weight: 820;
+    margin-top: 4px;
+}
+
+.cb-auth-card-subtitle {
+    color: #617084;
+    font-size: 14px;
+    margin-top: 5px;
+    margin-bottom: 18px;
+}
+
+/* Form labels */
+[data-testid="stTextInput"] label p {
+    color: #12355B !important;
+    font-weight: 650 !important;
+}
+
+/* Input fields */
+[data-testid="stTextInput"] input {
+    min-height: 46px;
+    border-radius: 8px;
+    border: 1px solid #CBD5E1;
+    background: rgba(255, 255, 255, 0.96);
+}
+
+/* Navy primary buttons */
+.stButton > button {
+    min-height: 44px;
+    border-radius: 8px;
+    background: #12355B;
+    color: #FFFFFF;
+    border: 1px solid #12355B;
+    font-weight: 650;
+    transition: background 0.2s ease,
+                transform 0.2s ease;
+}
+
+.stButton > button:hover {
+    background: #0B2848;
+    color: #FFFFFF;
+    border-color: #0B2848;
+    transform: translateY(-1px);
+}
+
+/* Tabs */
+[data-testid="stTabs"] button {
+    color: #40536A;
+    font-weight: 600;
+}
+
+/* Security note */
+.cb-secure-note {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 18px;
+    color: #526174;
+    font-size: 12px;
+}
+
+.cb-secure-dot {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    background: #258765;
+    border-radius: 50%;
+}
+
+/* Responsive layout */
+@media (max-width: 900px) {
+    .cb-auth-spacer {
+        min-height: 100px;
+    }
+
+    .cb-login-brand-name {
+        font-size: 32px;
+    }
+
+    [data-testid="stVerticalBlockBorderWrapper"] {
+        padding: 14px !important;
+    }
+}
+
+
+/* ============================================================
+   AUTH LAYOUT — KEEP THE FINAL STATUS ICON VISIBLE
+   ============================================================ */
+
+/* Give the background illustration more room on the left */
+@media (min-width: 1200px) {
+    [data-testid="stAppViewContainer"] .main
+    [data-testid="stHorizontalBlock"] {
+        column-gap: 2rem !important;
+    }
+
+    .cb-login-brand,
+    .cb-auth-card-title,
+    .cb-auth-card-subtitle {
+        position: relative;
+        z-index: 3;
+    }
+}
+
+/* Keep the background illustration visible around the login panel */
+@media (min-width: 1200px) {
+    [data-testid="stHorizontalBlock"] {
+        gap: 2rem !important;
+    }
+
+    [data-testid="stVerticalBlockBorderWrapper"] {
+        max-width: 96% !important;
+        margin-left: auto !important;
+    }
+}
