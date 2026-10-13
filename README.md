@@ -28,7 +28,7 @@ CivicBridge explores the use of machine learning, text processing, and geocoding
 - Evidence uploads where supported.
 - Complaint acknowledgement and tracking.
 
-### 2. Multilingual Complaint Classification
+### 2. Bilingual Complaint Classification
 - Processes supported complaint text in English and Marathi, including code-mixed input.
 - Uses a trained machine learning pipeline for complaint categorization.
 - Applies text processing and multilingual text representations.
